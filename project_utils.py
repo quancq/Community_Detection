@@ -56,10 +56,10 @@ def refine_raw_data(raw_dataset_dir, refined_dataset_dir):
         # break
 
     # Save result
-    save_path = "./Dataset/refined_data/tags_info.json"
+    save_path = os.path.join(refined_dataset_dir, "tags_info.json")
     utils.save_json(map_tag_info, save_path)
 
-    save_path = "./Dataset/refined_data/tags_relationshop.csv"
+    save_path = os.path.join(refined_dataset_dir, "tags_relationship.csv")
     df = []
     for (tag1, tag2), occ in map_pair_tag_ouccurrence.items():
         df.append((tag1, tag2, occ))
@@ -75,6 +75,6 @@ def refine_raw_data(raw_dataset_dir, refined_dataset_dir):
 
 if __name__ == "__main__":
     pass
-    raw_dataset_dir = "./Dataset/raw_data/full_data"
-    refined_dataset_dir = "./Dataset/refined_data"
+    raw_dataset_dir = "./Dataset/raw_data/selected_data"
+    refined_dataset_dir = "./Dataset/refined_data/temp"
     refine_raw_data(raw_dataset_dir, refined_dataset_dir)
