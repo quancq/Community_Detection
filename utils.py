@@ -203,5 +203,13 @@ def load_sklearn_model(model_path):
     return model
 
 
+def generate_colors(n):
+    colors = np.ones(n, dtype=np.int32)
+    for i in range(3):
+        color_channels = np.random.randint(0, 255, size=n)
+        colors += color_channels * 256
+    return colors.tolist()
+
+
 if __name__ == "__main__":
     pass
