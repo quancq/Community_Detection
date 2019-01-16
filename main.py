@@ -143,7 +143,7 @@ if __name__ == "__main__":
     # print(g.summary())
 
     # Community detection
-    cluster = g.community_multilevel(return_levels=True, weights=weights)[0]
+    cluster = g.community_multilevel(return_levels=True, weights=weights)[-1]
     # print(cluster.summary())
     # print([c.summary() for c in cluster])
     num_communities = len(cluster)
@@ -155,8 +155,8 @@ if __name__ == "__main__":
     print("\nAfter delete edges")
     print(g.summary())
 
-    colors = list(np.linspace(0, 0xFFFFFF, num_communities+1)[1:].astype(int))
-    # colors = utils.generate_colors(num_communities)
+    # colors = list(np.linspace(0, 0xFFFFFF, num_communities+1)[1:].astype(int))
+    colors = utils.generate_colors(num_communities)
     colors = ["#{:06X}".format(color) for color in colors]
     g.vs["fillcolor"] = [colors[label] for label in labels]
 
