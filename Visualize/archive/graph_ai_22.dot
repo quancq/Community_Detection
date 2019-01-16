@@ -1,0 +1,6045 @@
+/* Created by igraph 0.7.1 */
+graph {
+  0 [
+    style=filled
+    name=_efficiency
+    label=_efficiency
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  1 [
+    style=filled
+    name=_death
+    label=_death
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  2 [
+    style=filled
+    name="_symbolic-computing"
+    label="_symbolic-computing"
+    fillcolor="#8BA2E8"
+    community=11
+  ];
+  3 [
+    style=filled
+    name="_reinforcement-learning"
+    label="_reinforcement-learning"
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  4 [
+    style=filled
+    name="_graph-coloring"
+    label="_graph-coloring"
+    fillcolor="#1745D1"
+    community=1
+  ];
+  5 [
+    style=filled
+    name=_bayes
+    label=_bayes
+    fillcolor="#745D16"
+    community=9
+  ];
+  6 [
+    style=filled
+    name="_learning-algorithms"
+    label="_learning-algorithms"
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  7 [
+    style=filled
+    name="_ai-takeover"
+    label="_ai-takeover"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  8 [
+    style=filled
+    name="_gradient-descent"
+    label="_gradient-descent"
+    fillcolor="#45D174"
+    community=5
+  ];
+  9 [
+    style=filled
+    name="_friendly-ai"
+    label="_friendly-ai"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  10 [
+    style=filled
+    name="_evolutionary-algorithms"
+    label="_evolutionary-algorithms"
+    fillcolor="#1745D1"
+    community=1
+  ];
+  11 [
+    style=filled
+    name=_regularization
+    label=_regularization
+    fillcolor="#45D174"
+    community=5
+  ];
+  12 [
+    style=filled
+    name="_quantum-computing"
+    label="_quantum-computing"
+    fillcolor="#51745C"
+    community=6
+  ];
+  13 [
+    style=filled
+    name="_utility-based"
+    label="_utility-based"
+    fillcolor="#745D16"
+    community=9
+  ];
+  14 [
+    style=filled
+    name="_chinese-room-argument"
+    label="_chinese-room-argument"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  15 [
+    style=filled
+    name=_dimensionality
+    label=_dimensionality
+    fillcolor="#45D174"
+    community=5
+  ];
+  16 [
+    style=filled
+    name="_markov-chain"
+    label="_markov-chain"
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  17 [
+    style=filled
+    name="_imperfect-information"
+    label="_imperfect-information"
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  18 [
+    style=filled
+    name=_mlp
+    label=_mlp
+    fillcolor="#45D174"
+    community=5
+  ];
+  19 [
+    style=filled
+    name="_q-learning"
+    label="_q-learning"
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  20 [
+    style=filled
+    name="_c++"
+    label="_c++"
+    fillcolor="#745D16"
+    community=9
+  ];
+  21 [
+    style=filled
+    name="_super-organism"
+    label="_super-organism"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  22 [
+    style=filled
+    name="_neuromorphic-engineering"
+    label="_neuromorphic-engineering"
+    fillcolor="#22E8BA"
+    community=2
+  ];
+  23 [
+    style=filled
+    name="_neo-luddism"
+    label="_neo-luddism"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  24 [
+    style=filled
+    name="_knapsack-problem"
+    label="_knapsack-problem"
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  25 [
+    style=filled
+    name="_hardware-evaluation"
+    label="_hardware-evaluation"
+    fillcolor="#22E8BA"
+    community=2
+  ];
+  26 [
+    style=filled
+    name="_programming-languages"
+    label="_programming-languages"
+    fillcolor="#745D16"
+    community=9
+  ];
+  27 [
+    style=filled
+    name=_cognition
+    label=_cognition
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  28 [
+    style=filled
+    name=_hypercomputation
+    label=_hypercomputation
+    fillcolor="#45D174"
+    community=5
+  ];
+  29 [
+    style=filled
+    name=_intelligence
+    label=_intelligence
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  30 [
+    style=filled
+    name="_simple-reflex-agents"
+    label="_simple-reflex-agents"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  31 [
+    style=filled
+    name=_philosophy
+    label=_philosophy
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  32 [
+    style=filled
+    name=_gaming
+    label=_gaming
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  33 [
+    style=filled
+    name="_incompleteness-theorems"
+    label="_incompleteness-theorems"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  34 [
+    style=filled
+    name="_convolutional-neural-networks"
+    label="_convolutional-neural-networks"
+    fillcolor="#45D174"
+    community=5
+  ];
+  35 [
+    style=filled
+    name=_applications
+    label=_applications
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  36 [
+    style=filled
+    name=_cfg
+    label=_cfg
+    fillcolor="#745D16"
+    community=9
+  ];
+  37 [
+    style=filled
+    name=_relu
+    label=_relu
+    fillcolor="#45D174"
+    community=5
+  ];
+  38 [
+    style=filled
+    name=_mdp
+    label=_mdp
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  39 [
+    style=filled
+    name=_java
+    label=_java
+    fillcolor="#745D16"
+    community=9
+  ];
+  40 [
+    style=filled
+    name=_cyborg
+    label=_cyborg
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  41 [
+    style=filled
+    name="_neural-networks"
+    label="_neural-networks"
+    fillcolor="#45D174"
+    community=5
+  ];
+  42 [
+    style=filled
+    name=_optimization
+    label=_optimization
+    fillcolor="#1745D1"
+    community=1
+  ];
+  43 [
+    style=filled
+    name="_genetic-algorithms"
+    label="_genetic-algorithms"
+    fillcolor="#1745D1"
+    community=1
+  ];
+  44 [
+    style=filled
+    name=_prolog
+    label=_prolog
+    fillcolor="#745D16"
+    community=9
+  ];
+  45 [
+    style=filled
+    name="_universal-constructor"
+    label="_universal-constructor"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  46 [
+    style=filled
+    name="_image-recognition"
+    label="_image-recognition"
+    fillcolor="#45D174"
+    community=5
+  ];
+  47 [
+    style=filled
+    name=_mindstorms
+    label=_mindstorms
+    fillcolor="#45D174"
+    community=5
+  ];
+  48 [
+    style=filled
+    name=_javascript
+    label=_javascript
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  49 [
+    style=filled
+    name="_sparse-input"
+    label="_sparse-input"
+    fillcolor="#45D174"
+    community=5
+  ];
+  50 [
+    style=filled
+    name="_spiking-networks"
+    label="_spiking-networks"
+    fillcolor="#22E8BA"
+    community=2
+  ];
+  51 [
+    style=filled
+    name="_intelligence-augmentation"
+    label="_intelligence-augmentation"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  52 [
+    style=filled
+    name="_discount-factor"
+    label="_discount-factor"
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  53 [
+    style=filled
+    name="_linear-regression"
+    label="_linear-regression"
+    fillcolor="#45D174"
+    community=5
+  ];
+  54 [
+    style=filled
+    name="_generative-adversarial-networks"
+    label="_generative-adversarial-networks"
+    fillcolor="#45D174"
+    community=5
+  ];
+  55 [
+    style=filled
+    name="_a-star"
+    label="_a-star"
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  56 [
+    style=filled
+    name="_expert-system"
+    label="_expert-system"
+    fillcolor="#C5D173"
+    community=16
+  ];
+  57 [
+    style=filled
+    name=_robots
+    label=_robots
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  58 [
+    style=filled
+    name="_mythology-of-ai"
+    label="_mythology-of-ai"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  59 [
+    style=filled
+    name="_thought-vectors"
+    label="_thought-vectors"
+    fillcolor="#8BA2E8"
+    community=11
+  ];
+  60 [
+    style=filled
+    name=_implementation
+    label=_implementation
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  61 [
+    style=filled
+    name=_history
+    label=_history
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  62 [
+    style=filled
+    name=_brain
+    label=_brain
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  63 [
+    style=filled
+    name="_artificial-consciousness"
+    label="_artificial-consciousness"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  64 [
+    style=filled
+    name=_cars
+    label=_cars
+    fillcolor="#3A2E8B"
+    community=4
+  ];
+  65 [
+    style=filled
+    name="_open-source"
+    label="_open-source"
+    fillcolor="#745D16"
+    community=9
+  ];
+  66 [
+    style=filled
+    name="_weak-ai"
+    label="_weak-ai"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  67 [
+    style=filled
+    name="_sequence-modelling"
+    label="_sequence-modelling"
+    fillcolor="#68BA2E"
+    community=8
+  ];
+  68 [
+    style=filled
+    name=_wetware
+    label=_wetware
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  69 [
+    style=filled
+    name=_legal
+    label=_legal
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  70 [
+    style=filled
+    name="_natural-language"
+    label="_natural-language"
+    fillcolor="#D1745C"
+    community=17
+  ];
+  71 [
+    style=filled
+    name=_rationality
+    label=_rationality
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  72 [
+    style=filled
+    name="_embodied-cognition"
+    label="_embodied-cognition"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  73 [
+    style=filled
+    name="_reference-request"
+    label="_reference-request"
+    fillcolor="#745D16"
+    community=9
+  ];
+  74 [
+    style=filled
+    name=_robotics
+    label=_robotics
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  75 [
+    style=filled
+    name="_human-like"
+    label="_human-like"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  76 [
+    style=filled
+    name=_pathfinding
+    label=_pathfinding
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  77 [
+    style=filled
+    name=_forecasting
+    label=_forecasting
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  78 [
+    style=filled
+    name=_hardware
+    label=_hardware
+    fillcolor="#22E8BA"
+    community=2
+  ];
+  79 [
+    style=filled
+    name="_cultural-change"
+    label="_cultural-change"
+    fillcolor="#3A2E8B"
+    community=4
+  ];
+  80 [
+    style=filled
+    name="_self-play"
+    label="_self-play"
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  81 [
+    style=filled
+    name=_emergence
+    label=_emergence
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  82 [
+    style=filled
+    name="_combinatorial-games"
+    label="_combinatorial-games"
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  83 [
+    style=filled
+    name=_classification
+    label=_classification
+    fillcolor="#45D174"
+    community=5
+  ];
+  84 [
+    style=filled
+    name=_negamax
+    label=_negamax
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  85 [
+    style=filled
+    name="_alphago-zero"
+    label="_alphago-zero"
+    fillcolor="#5D1745"
+    community=7
+  ];
+  86 [
+    style=filled
+    name=_theory
+    label=_theory
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  87 [
+    style=filled
+    name="_ai-basics"
+    label="_ai-basics"
+    fillcolor="#745D16"
+    community=9
+  ];
+  88 [
+    style=filled
+    name=_deepmind
+    label=_deepmind
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  89 [
+    style=filled
+    name="_self-driving"
+    label="_self-driving"
+    fillcolor="#3A2E8B"
+    community=4
+  ];
+  90 [
+    style=filled
+    name=_concepts
+    label=_concepts
+    fillcolor="#745D16"
+    community=9
+  ];
+  91 [
+    style=filled
+    name="_ai-safety"
+    label="_ai-safety"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  92 [
+    style=filled
+    name="_branching-factors"
+    label="_branching-factors"
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  93 [
+    style=filled
+    name="_finite-markov-decision-process"
+    label="_finite-markov-decision-process"
+    fillcolor="#AE8BA2"
+    community=14
+  ];
+  94 [
+    style=filled
+    name=_confidence
+    label=_confidence
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  95 [
+    style=filled
+    name=_python
+    label=_python
+    fillcolor="#45D174"
+    community=5
+  ];
+  96 [
+    style=filled
+    name=_anthropomorphism
+    label=_anthropomorphism
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  97 [
+    style=filled
+    name="_goal-based"
+    label="_goal-based"
+    fillcolor="#745D16"
+    community=9
+  ];
+  98 [
+    style=filled
+    name="_random-variable"
+    label="_random-variable"
+    fillcolor="#9745D0"
+    community=12
+  ];
+  99 [
+    style=filled
+    name="_intelligence-metrics"
+    label="_intelligence-metrics"
+    fillcolor="#7FFFFF"
+    community=10
+  ];
+  100 [
+    style=filled
+    name=_search
+    label=_search
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  101 [
+    style=filled
+    name="_incomplete-information"
+    label="_incomplete-information"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  102 [
+    style=filled
+    name=_sentience
+    label=_sentience
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  103 [
+    style=filled
+    name=_comparison
+    label=_comparison
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  104 [
+    style=filled
+    name="_chat-bots"
+    label="_chat-bots"
+    fillcolor="#D1745C"
+    community=17
+  ];
+  105 [
+    style=filled
+    name=_nasa
+    label=_nasa
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  106 [
+    style=filled
+    name="_reward-clipping"
+    label="_reward-clipping"
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  107 [
+    style=filled
+    name=_performance
+    label=_performance
+    fillcolor="#45D174"
+    community=5
+  ];
+  108 [
+    style=filled
+    name="_hyper-parameters"
+    label="_hyper-parameters"
+    fillcolor="#1745D1"
+    community=1
+  ];
+  109 [
+    style=filled
+    name="_activation-function"
+    label="_activation-function"
+    fillcolor="#45D174"
+    community=5
+  ];
+  110 [
+    style=filled
+    name=_reliability
+    label=_reliability
+    fillcolor="#1745D1"
+    community=1
+  ];
+  111 [
+    style=filled
+    name="_boltzmann-machine"
+    label="_boltzmann-machine"
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  112 [
+    style=filled
+    name=_svm
+    label=_svm
+    fillcolor="#45D174"
+    community=5
+  ];
+  113 [
+    style=filled
+    name="_speech-synthesis"
+    label="_speech-synthesis"
+    fillcolor="#45D174"
+    community=5
+  ];
+  114 [
+    style=filled
+    name="_signal-processing"
+    label="_signal-processing"
+    fillcolor="#45D174"
+    community=5
+  ];
+  115 [
+    style=filled
+    name="_long-short-term-memory"
+    label="_long-short-term-memory"
+    fillcolor="#68BA2E"
+    community=8
+  ];
+  116 [
+    style=filled
+    name=_definitions
+    label=_definitions
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  117 [
+    style=filled
+    name=_convergence
+    label=_convergence
+    fillcolor="#1745D1"
+    community=1
+  ];
+  118 [
+    style=filled
+    name=_checkers
+    label=_checkers
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  119 [
+    style=filled
+    name=_topology
+    label=_topology
+    fillcolor="#1745D1"
+    community=1
+  ];
+  120 [
+    style=filled
+    name=_google
+    label=_google
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  121 [
+    style=filled
+    name="_maximum-likelihood"
+    label="_maximum-likelihood"
+    fillcolor="#45D174"
+    community=5
+  ];
+  122 [
+    style=filled
+    name=_automation
+    label=_automation
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  123 [
+    style=filled
+    name="_value-iteration"
+    label="_value-iteration"
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  124 [
+    style=filled
+    name=_minimax
+    label=_minimax
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  125 [
+    style=filled
+    name=_biology
+    label=_biology
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  126 [
+    style=filled
+    name="_detecting-patterns"
+    label="_detecting-patterns"
+    fillcolor="#F45D16"
+    community=20
+  ];
+  127 [
+    style=filled
+    name="_audio-processing"
+    label="_audio-processing"
+    fillcolor="#45D174"
+    community=5
+  ];
+  128 [
+    style=filled
+    name=_reasoning
+    label=_reasoning
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  129 [
+    style=filled
+    name="_ai-box"
+    label="_ai-box"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  130 [
+    style=filled
+    name=_generalization
+    label=_generalization
+    fillcolor="#45D174"
+    community=5
+  ];
+  131 [
+    style=filled
+    name="_self-awareness"
+    label="_self-awareness"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  132 [
+    style=filled
+    name=_ethics
+    label=_ethics
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  133 [
+    style=filled
+    name="_open-ai"
+    label="_open-ai"
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  134 [
+    style=filled
+    name="_lexical-recognition"
+    label="_lexical-recognition"
+    fillcolor="#D1745C"
+    community=17
+  ];
+  135 [
+    style=filled
+    name=_word2vec
+    label=_word2vec
+    fillcolor="#D1745C"
+    community=17
+  ];
+  136 [
+    style=filled
+    name="_norvig-russell"
+    label="_norvig-russell"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  137 [
+    style=filled
+    name=_quotes
+    label=_quotes
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  138 [
+    style=filled
+    name=_rul
+    label=_rul
+    fillcolor="#45D174"
+    community=5
+  ];
+  139 [
+    style=filled
+    name="_action-recognition"
+    label="_action-recognition"
+    fillcolor="#1745D1"
+    community=1
+  ];
+  140 [
+    style=filled
+    name=_survival
+    label=_survival
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  141 [
+    style=filled
+    name="_statistical-ai"
+    label="_statistical-ai"
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  142 [
+    style=filled
+    name="_machine-learning"
+    label="_machine-learning"
+    fillcolor="#45D174"
+    community=5
+  ];
+  143 [
+    style=filled
+    name="_halting-problem"
+    label="_halting-problem"
+    fillcolor="#51745C"
+    community=6
+  ];
+  144 [
+    style=filled
+    name="_embedded-design"
+    label="_embedded-design"
+    fillcolor="#F45D16"
+    community=20
+  ];
+  145 [
+    style=filled
+    name="_turing-test"
+    label="_turing-test"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  146 [
+    style=filled
+    name="_artificial-neuron"
+    label="_artificial-neuron"
+    fillcolor="#45D174"
+    community=5
+  ];
+  147 [
+    style=filled
+    name="_human-inspired"
+    label="_human-inspired"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  148 [
+    style=filled
+    name=_semantics
+    label=_semantics
+    fillcolor="#D1745C"
+    community=17
+  ];
+  149 [
+    style=filled
+    name=_feedback
+    label=_feedback
+    fillcolor="#BA2E8A"
+    community=15
+  ];
+  150 [
+    style=filled
+    name="_structured-data"
+    label="_structured-data"
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  151 [
+    style=filled
+    name=_praxis
+    label=_praxis
+    fillcolor="#745D16"
+    community=9
+  ];
+  152 [
+    style=filled
+    name="_ai-design"
+    label="_ai-design"
+    fillcolor="#745D16"
+    community=9
+  ];
+  153 [
+    style=filled
+    name=_lisp
+    label=_lisp
+    fillcolor="#745D16"
+    community=9
+  ];
+  154 [
+    style=filled
+    name="_new-ai"
+    label="_new-ai"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  155 [
+    style=filled
+    name="_feature-selection"
+    label="_feature-selection"
+    fillcolor="#45D174"
+    community=5
+  ];
+  156 [
+    style=filled
+    name="_decision-tree"
+    label="_decision-tree"
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  157 [
+    style=filled
+    name="_data-science"
+    label="_data-science"
+    fillcolor="#45D174"
+    community=5
+  ];
+  158 [
+    style=filled
+    name=_probabilistic
+    label=_probabilistic
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  159 [
+    style=filled
+    name=_go
+    label=_go
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  160 [
+    style=filled
+    name="_strong-ai"
+    label="_strong-ai"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  161 [
+    style=filled
+    name=_alphazero
+    label=_alphazero
+    fillcolor="#5D1745"
+    community=7
+  ];
+  162 [
+    style=filled
+    name="_language-processing"
+    label="_language-processing"
+    fillcolor="#745D16"
+    community=9
+  ];
+  163 [
+    style=filled
+    name="_hidden-layers"
+    label="_hidden-layers"
+    fillcolor="#45D174"
+    community=5
+  ];
+  164 [
+    style=filled
+    name=_combinatorics
+    label=_combinatorics
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  165 [
+    style=filled
+    name="_automated-theorem-proving"
+    label="_automated-theorem-proving"
+    fillcolor="#745D16"
+    community=9
+  ];
+  166 [
+    style=filled
+    name="_ultraintelligent-machine"
+    label="_ultraintelligent-machine"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  167 [
+    style=filled
+    name="_node-js"
+    label="_node-js"
+    fillcolor="#745D16"
+    community=9
+  ];
+  168 [
+    style=filled
+    name="_handwritten-characters"
+    label="_handwritten-characters"
+    fillcolor="#51745C"
+    community=6
+  ];
+  169 [
+    style=filled
+    name=_attention
+    label=_attention
+    fillcolor="#68BA2E"
+    community=8
+  ];
+  170 [
+    style=filled
+    name="_linear-algebra"
+    label="_linear-algebra"
+    fillcolor="#45D174"
+    community=5
+  ];
+  171 [
+    style=filled
+    name="_decision-theory"
+    label="_decision-theory"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  172 [
+    style=filled
+    name="_deep-network"
+    label="_deep-network"
+    fillcolor="#45D174"
+    community=5
+  ];
+  173 [
+    style=filled
+    name=_overfitting
+    label=_overfitting
+    fillcolor="#45D174"
+    community=5
+  ];
+  174 [
+    style=filled
+    name=_security
+    label=_security
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  175 [
+    style=filled
+    name="_self-replication"
+    label="_self-replication"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  176 [
+    style=filled
+    name=_deepdreaming
+    label=_deepdreaming
+    fillcolor="#45D174"
+    community=5
+  ];
+  177 [
+    style=filled
+    name="_symbolic-ai"
+    label="_symbolic-ai"
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  178 [
+    style=filled
+    name=_thought
+    label=_thought
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  179 [
+    style=filled
+    name="_game-theory"
+    label="_game-theory"
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  180 [
+    style=filled
+    name=_training
+    label=_training
+    fillcolor="#45D174"
+    community=5
+  ];
+  181 [
+    style=filled
+    name=_genes
+    label=_genes
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  182 [
+    style=filled
+    name="_software-evaluation"
+    label="_software-evaluation"
+    fillcolor="#745D16"
+    community=9
+  ];
+  183 [
+    style=filled
+    name=_structure
+    label=_structure
+    fillcolor="#BA2E8A"
+    community=15
+  ];
+  184 [
+    style=filled
+    name="_getting-started"
+    label="_getting-started"
+    fillcolor="#745D16"
+    community=9
+  ];
+  185 [
+    style=filled
+    name=_starcraft
+    label=_starcraft
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  186 [
+    style=filled
+    name=_tools
+    label=_tools
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  187 [
+    style=filled
+    name="_loss-functions"
+    label="_loss-functions"
+    fillcolor="#45D174"
+    community=5
+  ];
+  188 [
+    style=filled
+    name=_difference
+    label=_difference
+    fillcolor="#1745D1"
+    community=1
+  ];
+  189 [
+    style=filled
+    name="_teaching-concepts"
+    label="_teaching-concepts"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  190 [
+    style=filled
+    name=_time
+    label=_time
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  191 [
+    style=filled
+    name="_digital-rights"
+    label="_digital-rights"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  192 [
+    style=filled
+    name="_real-world"
+    label="_real-world"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  193 [
+    style=filled
+    name=_collaboration
+    label=_collaboration
+    fillcolor="#7FFFFF"
+    community=10
+  ];
+  194 [
+    style=filled
+    name="_legal-change"
+    label="_legal-change"
+    fillcolor="#3A2E8B"
+    community=4
+  ];
+  195 [
+    style=filled
+    name=_architecture
+    label=_architecture
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  196 [
+    style=filled
+    name="_neural-doodle"
+    label="_neural-doodle"
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  197 [
+    style=filled
+    name=_marketability
+    label=_marketability
+    fillcolor="#3A2E8B"
+    community=4
+  ];
+  198 [
+    style=filled
+    name="_analog-computing"
+    label="_analog-computing"
+    fillcolor="#22E8BA"
+    community=2
+  ];
+  199 [
+    style=filled
+    name=_htm
+    label=_htm
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  200 [
+    style=filled
+    name=_alphago
+    label=_alphago
+    fillcolor="#5D1745"
+    community=7
+  ];
+  201 [
+    style=filled
+    name="_path-planning"
+    label="_path-planning"
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  202 [
+    style=filled
+    name="_facial-recognition"
+    label="_facial-recognition"
+    fillcolor="#45D174"
+    community=5
+  ];
+  203 [
+    style=filled
+    name=_quantification
+    label=_quantification
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  204 [
+    style=filled
+    name=_ocr
+    label=_ocr
+    fillcolor="#51745C"
+    community=6
+  ];
+  205 [
+    style=filled
+    name=_gofai
+    label=_gofai
+    fillcolor="#8BA2E8"
+    community=11
+  ];
+  206 [
+    style=filled
+    name="_ai-community"
+    label="_ai-community"
+    fillcolor="#745D16"
+    community=9
+  ];
+  207 [
+    style=filled
+    name="_mapping-space"
+    label="_mapping-space"
+    fillcolor="#F45D16"
+    community=20
+  ];
+  208 [
+    style=filled
+    name=_poker
+    label=_poker
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  209 [
+    style=filled
+    name="_early-stopping"
+    label="_early-stopping"
+    fillcolor="#745D16"
+    community=9
+  ];
+  210 [
+    style=filled
+    name="_spanish-language"
+    label="_spanish-language"
+    fillcolor="#745D16"
+    community=9
+  ];
+  211 [
+    style=filled
+    name="_predicting-ai-milestones"
+    label="_predicting-ai-milestones"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  212 [
+    style=filled
+    name=_proofs
+    label=_proofs
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  213 [
+    style=filled
+    name=_singularity
+    label=_singularity
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  214 [
+    style=filled
+    name=_feedforward
+    label=_feedforward
+    fillcolor="#45D174"
+    community=5
+  ];
+  215 [
+    style=filled
+    name="_user-experience"
+    label="_user-experience"
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  216 [
+    style=filled
+    name="_cognitive-science"
+    label="_cognitive-science"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  217 [
+    style=filled
+    name="_ai-field"
+    label="_ai-field"
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  218 [
+    style=filled
+    name="_control-problem"
+    label="_control-problem"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  219 [
+    style=filled
+    name=_datasets
+    label=_datasets
+    fillcolor="#45D174"
+    community=5
+  ];
+  220 [
+    style=filled
+    name="_software-architecture"
+    label="_software-architecture"
+    fillcolor="#1745D1"
+    community=1
+  ];
+  221 [
+    style=filled
+    name=_math
+    label=_math
+    fillcolor="#745D16"
+    community=9
+  ];
+  222 [
+    style=filled
+    name="_risk-management"
+    label="_risk-management"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  223 [
+    style=filled
+    name=_agi
+    label=_agi
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  224 [
+    style=filled
+    name="_problem-solving"
+    label="_problem-solving"
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  225 [
+    style=filled
+    name="_text-summarization"
+    label="_text-summarization"
+    fillcolor="#D1745C"
+    community=17
+  ];
+  226 [
+    style=filled
+    name="_world-knowledge"
+    label="_world-knowledge"
+    fillcolor="#C5D173"
+    community=16
+  ];
+  227 [
+    style=filled
+    name="_asimovs-laws"
+    label="_asimovs-laws"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  228 [
+    style=filled
+    name=_invention
+    label=_invention
+    fillcolor="#A2E8B9"
+    community=13
+  ];
+  229 [
+    style=filled
+    name="_sentiment-analysis"
+    label="_sentiment-analysis"
+    fillcolor="#45D174"
+    community=5
+  ];
+  230 [
+    style=filled
+    name=_research
+    label=_research
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  231 [
+    style=filled
+    name="_probability-distribution"
+    label="_probability-distribution"
+    fillcolor="#9745D0"
+    community=12
+  ];
+  232 [
+    style=filled
+    name=_som
+    label=_som
+    fillcolor="#45D174"
+    community=5
+  ];
+  233 [
+    style=filled
+    name="_value-alignment"
+    label="_value-alignment"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  234 [
+    style=filled
+    name="_real-time"
+    label="_real-time"
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  235 [
+    style=filled
+    name=_challenges
+    label=_challenges
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  236 [
+    style=filled
+    name="_time-complexity"
+    label="_time-complexity"
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  237 [
+    style=filled
+    name=_feasibility
+    label=_feasibility
+    fillcolor="#A2E8B9"
+    community=13
+  ];
+  238 [
+    style=filled
+    name="_online-resources"
+    label="_online-resources"
+    fillcolor="#45D174"
+    community=5
+  ];
+  239 [
+    style=filled
+    name="_markov-decision-process"
+    label="_markov-decision-process"
+    fillcolor="#AE8BA2"
+    community=14
+  ];
+  240 [
+    style=filled
+    name="_unsupervised-learning"
+    label="_unsupervised-learning"
+    fillcolor="#45D174"
+    community=5
+  ];
+  241 [
+    style=filled
+    name=_sense
+    label=_sense
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  242 [
+    style=filled
+    name=_healthcare
+    label=_healthcare
+    fillcolor="#D1745C"
+    community=17
+  ];
+  243 [
+    style=filled
+    name="_recurrent-neural-networks"
+    label="_recurrent-neural-networks"
+    fillcolor="#45D174"
+    community=5
+  ];
+  244 [
+    style=filled
+    name=_lstm
+    label=_lstm
+    fillcolor="#45D174"
+    community=5
+  ];
+  245 [
+    style=filled
+    name="_perfect-play"
+    label="_perfect-play"
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  246 [
+    style=filled
+    name=_academia
+    label=_academia
+    fillcolor="#745D16"
+    community=9
+  ];
+  247 [
+    style=filled
+    name="_object-recognition"
+    label="_object-recognition"
+    fillcolor="#45D174"
+    community=5
+  ];
+  248 [
+    style=filled
+    name=_ltsm
+    label=_ltsm
+    fillcolor="#45D174"
+    community=5
+  ];
+  249 [
+    style=filled
+    name="_computational-linguistics"
+    label="_computational-linguistics"
+    fillcolor="#D1745C"
+    community=17
+  ];
+  250 [
+    style=filled
+    name="_knowledge-representation"
+    label="_knowledge-representation"
+    fillcolor="#C5D173"
+    community=16
+  ];
+  251 [
+    style=filled
+    name="_art-aesthetics"
+    label="_art-aesthetics"
+    fillcolor="#45D174"
+    community=5
+  ];
+  252 [
+    style=filled
+    name=_chess
+    label=_chess
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  253 [
+    style=filled
+    name="_computer-programming"
+    label="_computer-programming"
+    fillcolor="#745D16"
+    community=9
+  ];
+  254 [
+    style=filled
+    name=_matlab
+    label=_matlab
+    fillcolor="#45D174"
+    community=5
+  ];
+  255 [
+    style=filled
+    name="_strong-narrow-ai"
+    label="_strong-narrow-ai"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  256 [
+    style=filled
+    name=_connectivity
+    label=_connectivity
+    fillcolor="#BA2E8A"
+    community=15
+  ];
+  257 [
+    style=filled
+    name="_google-cloud"
+    label="_google-cloud"
+    fillcolor="#45D174"
+    community=5
+  ];
+  258 [
+    style=filled
+    name="_russell-norvig"
+    label="_russell-norvig"
+    fillcolor="#745D16"
+    community=9
+  ];
+  259 [
+    style=filled
+    name="_monte-carlo-tree-search"
+    label="_monte-carlo-tree-search"
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  260 [
+    style=filled
+    name="_learning-theory"
+    label="_learning-theory"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  261 [
+    style=filled
+    name=_models
+    label=_models
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  262 [
+    style=filled
+    name="_intelligence-testing"
+    label="_intelligence-testing"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  263 [
+    style=filled
+    name=_r
+    label=_r
+    fillcolor="#C5D173"
+    community=16
+  ];
+  264 [
+    style=filled
+    name="_generative-model"
+    label="_generative-model"
+    fillcolor="#45D174"
+    community=5
+  ];
+  265 [
+    style=filled
+    name=_terminology
+    label=_terminology
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  266 [
+    style=filled
+    name=_neat
+    label=_neat
+    fillcolor="#1745D1"
+    community=1
+  ];
+  267 [
+    style=filled
+    name="_scene-classification"
+    label="_scene-classification"
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  268 [
+    style=filled
+    name=_chaos
+    label=_chaos
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  269 [
+    style=filled
+    name="_fuzzy-logic"
+    label="_fuzzy-logic"
+    fillcolor="#745D16"
+    community=9
+  ];
+  270 [
+    style=filled
+    name=_logic
+    label=_logic
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  271 [
+    style=filled
+    name=_storage
+    label=_storage
+    fillcolor="#D1745C"
+    community=17
+  ];
+  272 [
+    style=filled
+    name="_breadth-first-search"
+    label="_breadth-first-search"
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  273 [
+    style=filled
+    name="_deep-learning"
+    label="_deep-learning"
+    fillcolor="#45D174"
+    community=5
+  ];
+  274 [
+    style=filled
+    name=_wordvector
+    label=_wordvector
+    fillcolor="#D1745C"
+    community=17
+  ];
+  275 [
+    style=filled
+    name=_abstraction
+    label=_abstraction
+    fillcolor="#DD1744"
+    community=18
+  ];
+  276 [
+    style=filled
+    name="_quality-control"
+    label="_quality-control"
+    fillcolor="#745D16"
+    community=9
+  ];
+  277 [
+    style=filled
+    name="_resource-request"
+    label="_resource-request"
+    fillcolor="#45D174"
+    community=5
+  ];
+  278 [
+    style=filled
+    name="_deep-blue"
+    label="_deep-blue"
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  279 [
+    style=filled
+    name="_creative-commons"
+    label="_creative-commons"
+    fillcolor="#7FFFFF"
+    community=10
+  ];
+  280 [
+    style=filled
+    name="_computer-vision"
+    label="_computer-vision"
+    fillcolor="#45D174"
+    community=5
+  ];
+  281 [
+    style=filled
+    name="_unassisted-learning"
+    label="_unassisted-learning"
+    fillcolor="#745D16"
+    community=9
+  ];
+  282 [
+    style=filled
+    name=_cyborexis
+    label=_cyborexis
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  283 [
+    style=filled
+    name=_deepdream
+    label=_deepdream
+    fillcolor="#45D174"
+    community=5
+  ];
+  284 [
+    style=filled
+    name=_watson
+    label=_watson
+    fillcolor="#D1745C"
+    community=17
+  ];
+  285 [
+    style=filled
+    name="_classical-ai"
+    label="_classical-ai"
+    fillcolor="#8BA2E8"
+    community=11
+  ];
+  286 [
+    style=filled
+    name="_latent-variable"
+    label="_latent-variable"
+    fillcolor="#9745D0"
+    community=12
+  ];
+  287 [
+    style=filled
+    name="_categorical-data"
+    label="_categorical-data"
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  288 [
+    style=filled
+    name="_alpha-beta-pruning"
+    label="_alpha-beta-pruning"
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  289 [
+    style=filled
+    name=_fallibility
+    label=_fallibility
+    fillcolor="#1745D1"
+    community=1
+  ];
+  290 [
+    style=filled
+    name=_sigmoid
+    label=_sigmoid
+    fillcolor="#45D174"
+    community=5
+  ];
+  291 [
+    style=filled
+    name=_tensorflow
+    label=_tensorflow
+    fillcolor="#45D174"
+    community=5
+  ];
+  292 [
+    style=filled
+    name=_autoencoders
+    label=_autoencoders
+    fillcolor="#45D174"
+    community=5
+  ];
+  293 [
+    style=filled
+    name="_swarm-intelligence"
+    label="_swarm-intelligence"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  294 [
+    style=filled
+    name="_natural-language-processing"
+    label="_natural-language-processing"
+    fillcolor="#D1745C"
+    community=17
+  ];
+  295 [
+    style=filled
+    name=_backpropagation
+    label=_backpropagation
+    fillcolor="#45D174"
+    community=5
+  ];
+  296 [
+    style=filled
+    name=_social
+    label=_social
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  297 [
+    style=filled
+    name=_dropout
+    label=_dropout
+    fillcolor="#45D174"
+    community=5
+  ];
+  298 [
+    style=filled
+    name="_collision-avoidance"
+    label="_collision-avoidance"
+    fillcolor="#DD1744"
+    community=18
+  ];
+  299 [
+    style=filled
+    name="_brute-force"
+    label="_brute-force"
+    fillcolor="#5D1745"
+    community=7
+  ];
+  300 [
+    style=filled
+    name="_vector-graphics-processing"
+    label="_vector-graphics-processing"
+    fillcolor="#745D16"
+    community=9
+  ];
+  301 [
+    style=filled
+    name="_game-ai"
+    label="_game-ai"
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  302 [
+    style=filled
+    name="_graph-theory"
+    label="_graph-theory"
+    fillcolor="#BA2E8A"
+    community=15
+  ];
+  303 [
+    style=filled
+    name="_consumer-product"
+    label="_consumer-product"
+    fillcolor="#F45D16"
+    community=20
+  ];
+  304 [
+    style=filled
+    name="_declarative-programming"
+    label="_declarative-programming"
+    fillcolor="#1745D1"
+    community=1
+  ];
+  305 [
+    style=filled
+    name="_multi-armed-bandit"
+    label="_multi-armed-bandit"
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  306 [
+    style=filled
+    name=_heuristics
+    label=_heuristics
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  307 [
+    style=filled
+    name="_rule-acquisition"
+    label="_rule-acquisition"
+    fillcolor="#745D16"
+    community=9
+  ];
+  308 [
+    style=filled
+    name=_papers
+    label=_papers
+    fillcolor="#45D174"
+    community=5
+  ];
+  309 [
+    style=filled
+    name="_autonomous-vehicles"
+    label="_autonomous-vehicles"
+    fillcolor="#3A2E8B"
+    community=4
+  ];
+  310 [
+    style=filled
+    name=_hci
+    label=_hci
+    fillcolor="#D1745C"
+    community=17
+  ];
+  311 [
+    style=filled
+    name=_profession
+    label=_profession
+    fillcolor="#745D16"
+    community=9
+  ];
+  312 [
+    style=filled
+    name=_dqn
+    label=_dqn
+    fillcolor="#0BA2E8"
+    community=0
+  ];
+  313 [
+    style=filled
+    name="_soft-question"
+    label="_soft-question"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  314 [
+    style=filled
+    name="_pattern-recognition"
+    label="_pattern-recognition"
+    fillcolor="#F45D16"
+    community=20
+  ];
+  315 [
+    style=filled
+    name="_job-trends"
+    label="_job-trends"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  316 [
+    style=filled
+    name=_deepstack
+    label=_deepstack
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  317 [
+    style=filled
+    name="_intelligent-agent"
+    label="_intelligent-agent"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  318 [
+    style=filled
+    name="_ai-development"
+    label="_ai-development"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  319 [
+    style=filled
+    name="_genetic-programming"
+    label="_genetic-programming"
+    fillcolor="#1745D1"
+    community=1
+  ];
+  320 [
+    style=filled
+    name=_algorithm
+    label=_algorithm
+    fillcolor="#FFFFFF"
+    community=21
+  ];
+  321 [
+    style=filled
+    name=_neurons
+    label=_neurons
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  322 [
+    style=filled
+    name="_multi-agent-systems"
+    label="_multi-agent-systems"
+    fillcolor="#E8BA2D"
+    community=19
+  ];
+  323 [
+    style=filled
+    name="_emotional-intelligence"
+    label="_emotional-intelligence"
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  324 [
+    style=filled
+    name=_cyberterrorism
+    label=_cyberterrorism
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  325 [
+    style=filled
+    name="_voice-recognition"
+    label="_voice-recognition"
+    fillcolor="#D1745C"
+    community=17
+  ];
+  326 [
+    style=filled
+    name=_graphs
+    label=_graphs
+    fillcolor="#BA2E8A"
+    community=15
+  ];
+  327 [
+    style=filled
+    name="_fitness-functions"
+    label="_fitness-functions"
+    fillcolor="#1745D1"
+    community=1
+  ];
+  328 [
+    style=filled
+    name=_keras
+    label=_keras
+    fillcolor="#45D174"
+    community=5
+  ];
+  329 [
+    style=filled
+    name=_prediction
+    label=_prediction
+    fillcolor="#45D174"
+    community=5
+  ];
+  330 [
+    style=filled
+    name=_perceptron
+    label=_perceptron
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+  331 [
+    style=filled
+    name=_superintelligence
+    label=_superintelligence
+    fillcolor="#2E8BA2"
+    community=3
+  ];
+
+  289 -- 110 [
+    weight=1
+  ];
+  181 -- 125 [
+    weight=1
+  ];
+  252 -- 159 [
+    weight=2
+  ];
+  221 -- 87 [
+    weight=6
+  ];
+  218 -- 116 [
+    weight=1
+  ];
+  264 -- 54 [
+    weight=6
+  ];
+  160 -- 31 [
+    weight=4
+  ];
+  245 -- 19 [
+    weight=1
+  ];
+  119 -- 10 [
+    weight=2
+  ];
+  331 -- 7 [
+    weight=2
+  ];
+  263 -- 56 [
+    weight=1
+  ];
+  169 -- 67 [
+    weight=1
+  ];
+  248 -- 41 [
+    weight=1
+  ];
+  296 -- 86 [
+    weight=1
+  ];
+  320 -- 236 [
+    weight=2
+  ];
+  141 -- 3 [
+    weight=5
+  ];
+  248 -- 142 [
+    weight=1
+  ];
+  57 -- 29 [
+    weight=1
+  ];
+  291 -- 180 [
+    weight=10
+  ];
+  280 -- 176 [
+    weight=1
+  ];
+  280 -- 34 [
+    weight=18
+  ];
+  329 -- 254 [
+    weight=2
+  ];
+  189 -- 86 [
+    weight=1
+  ];
+  294 -- 134 [
+    weight=3
+  ];
+  323 -- 132 [
+    weight=1
+  ];
+  218 -- 174 [
+    weight=1
+  ];
+  331 -- 63 [
+    weight=1
+  ];
+  253 -- 39 [
+    weight=1
+  ];
+  146 -- 114 [
+    weight=1
+  ];
+  166 -- 86 [
+    weight=1
+  ];
+  295 -- 291 [
+    weight=2
+  ];
+  218 -- 166 [
+    weight=1
+  ];
+  41 -- 3 [
+    weight=26
+  ];
+  95 -- 47 [
+    weight=1
+  ];
+  90 -- 87 [
+    weight=11
+  ];
+  316 -- 301 [
+    weight=1
+  ];
+  293 -- 35 [
+    weight=2
+  ];
+  270 -- 132 [
+    weight=2
+  ];
+  206 -- 39 [
+    weight=1
+  ];
+  256 -- 149 [
+    weight=1
+  ];
+  180 -- 157 [
+    weight=2
+  ];
+  213 -- 31 [
+    weight=5
+  ];
+  247 -- 46 [
+    weight=8
+  ];
+  265 -- 145 [
+    weight=1
+  ];
+  276 -- 182 [
+    weight=1
+  ];
+  247 -- 83 [
+    weight=1
+  ];
+  331 -- 233 [
+    weight=1
+  ];
+  253 -- 87 [
+    weight=1
+  ];
+  273 -- 8 [
+    weight=4
+  ];
+  145 -- 66 [
+    weight=1
+  ];
+  75 -- 62 [
+    weight=1
+  ];
+  270 -- 154 [
+    weight=1
+  ];
+  220 -- 119 [
+    weight=1
+  ];
+  144 -- 126 [
+    weight=2
+  ];
+  155 -- 15 [
+    weight=2
+  ];
+  107 -- 83 [
+    weight=2
+  ];
+  180 -- 172 [
+    weight=4
+  ];
+  308 -- 243 [
+    weight=1
+  ];
+  122 -- 23 [
+    weight=1
+  ];
+  291 -- 273 [
+    weight=26
+  ];
+  292 -- 273 [
+    weight=1
+  ];
+  230 -- 41 [
+    weight=16
+  ];
+  216 -- 116 [
+    weight=1
+  ];
+  84 -- 82 [
+    weight=1
+  ];
+  321 -- 131 [
+    weight=1
+  ];
+  295 -- 163 [
+    weight=1
+  ];
+  119 -- 108 [
+    weight=1
+  ];
+  280 -- 240 [
+    weight=1
+  ];
+  247 -- 41 [
+    weight=9
+  ];
+  329 -- 244 [
+    weight=5
+  ];
+  182 -- 73 [
+    weight=2
+  ];
+  128 -- 101 [
+    weight=1
+  ];
+  184 -- 73 [
+    weight=4
+  ];
+  262 -- 61 [
+    weight=2
+  ];
+  75 -- 35 [
+    weight=1
+  ];
+  273 -- 34 [
+    weight=68
+  ];
+  244 -- 172 [
+    weight=2
+  ];
+  116 -- 71 [
+    weight=1
+  ];
+  280 -- 95 [
+    weight=1
+  ];
+  167 -- 87 [
+    weight=1
+  ];
+  264 -- 83 [
+    weight=2
+  ];
+  241 -- 131 [
+    weight=1
+  ];
+  259 -- 32 [
+    weight=3
+  ];
+  115 -- 67 [
+    weight=1
+  ];
+  168 -- 12 [
+    weight=1
+  ];
+  223 -- 31 [
+    weight=7
+  ];
+  145 -- 142 [
+    weight=2
+  ];
+  245 -- 80 [
+    weight=1
+  ];
+  82 -- 17 [
+    weight=1
+  ];
+  280 -- 155 [
+    weight=1
+  ];
+  244 -- 41 [
+    weight=18
+  ];
+  290 -- 83 [
+    weight=1
+  ];
+  293 -- 265 [
+    weight=1
+  ];
+  43 -- 10 [
+    weight=16
+  ];
+  223 -- 158 [
+    weight=1
+  ];
+  191 -- 132 [
+    weight=1
+  ];
+  184 -- 182 [
+    weight=8
+  ];
+  127 -- 41 [
+    weight=1
+  ];
+  233 -- 132 [
+    weight=3
+  ];
+  252 -- 92 [
+    weight=1
+  ];
+  317 -- 145 [
+    weight=1
+  ];
+  254 -- 83 [
+    weight=2
+  ];
+  172 -- 130 [
+    weight=1
+  ];
+  282 -- 122 [
+    weight=1
+  ];
+  216 -- 61 [
+    weight=1
+  ];
+  301 -- 156 [
+    weight=1
+  ];
+  101 -- 75 [
+    weight=1
+  ];
+  153 -- 87 [
+    weight=1
+  ];
+  301 -- 32 [
+    weight=5
+  ];
+  95 -- 83 [
+    weight=6
+  ];
+  87 -- 65 [
+    weight=1
+  ];
+  273 -- 214 [
+    weight=4
+  ];
+  271 -- 134 [
+    weight=1
+  ];
+  291 -- 142 [
+    weight=10
+  ];
+  230 -- 9 [
+    weight=1
+  ];
+  213 -- 86 [
+    weight=1
+  ];
+  294 -- 225 [
+    weight=6
+  ];
+  219 -- 155 [
+    weight=1
+  ];
+  133 -- 3 [
+    weight=6
+  ];
+  329 -- 172 [
+    weight=2
+  ];
+  132 -- 86 [
+    weight=4
+  ];
+  119 -- 26 [
+    weight=1
+  ];
+  244 -- 240 [
+    weight=2
+  ];
+  315 -- 61 [
+    weight=1
+  ];
+  317 -- 116 [
+    weight=4
+  ];
+  314 -- 144 [
+    weight=1
+  ];
+  157 -- 142 [
+    weight=11
+  ];
+  248 -- 95 [
+    weight=1
+  ];
+  291 -- 280 [
+    weight=4
+  ];
+  241 -- 62 [
+    weight=1
+  ];
+  216 -- 63 [
+    weight=2
+  ];
+  19 -- 16 [
+    weight=1
+  ];
+  264 -- 219 [
+    weight=1
+  ];
+  313 -- 86 [
+    weight=3
+  ];
+  187 -- 172 [
+    weight=1
+  ];
+  173 -- 41 [
+    weight=4
+  ];
+  331 -- 160 [
+    weight=4
+  ];
+  104 -- 70 [
+    weight=1
+  ];
+  160 -- 23 [
+    weight=3
+  ];
+  321 -- 31 [
+    weight=2
+  ];
+  324 -- 75 [
+    weight=1
+  ];
+  283 -- 280 [
+    weight=1
+  ];
+  323 -- 31 [
+    weight=6
+  ];
+  45 -- 7 [
+    weight=1
+  ];
+  223 -- 63 [
+    weight=1
+  ];
+  284 -- 271 [
+    weight=1
+  ];
+  294 -- 148 [
+    weight=5
+  ];
+  100 -- 0 [
+    weight=1
+  ];
+  112 -- 83 [
+    weight=1
+  ];
+  270 -- 31 [
+    weight=1
+  ];
+  202 -- 34 [
+    weight=2
+  ];
+  262 -- 75 [
+    weight=2
+  ];
+  328 -- 142 [
+    weight=8
+  ];
+  321 -- 62 [
+    weight=3
+  ];
+  243 -- 83 [
+    weight=3
+  ];
+  114 -- 46 [
+    weight=1
+  ];
+  34 -- 11 [
+    weight=1
+  ];
+  270 -- 158 [
+    weight=1
+  ];
+  95 -- 8 [
+    weight=1
+  ];
+  330 -- 270 [
+    weight=1
+  ];
+  157 -- 34 [
+    weight=2
+  ];
+  61 -- 31 [
+    weight=3
+  ];
+  61 -- 23 [
+    weight=1
+  ];
+  244 -- 243 [
+    weight=18
+  ];
+  304 -- 10 [
+    weight=1
+  ];
+  174 -- 91 [
+    weight=1
+  ];
+  83 -- 46 [
+    weight=13
+  ];
+  94 -- 31 [
+    weight=1
+  ];
+  317 -- 30 [
+    weight=1
+  ];
+  320 -- 196 [
+    weight=1
+  ];
+  216 -- 213 [
+    weight=2
+  ];
+  171 -- 57 [
+    weight=1
+  ];
+  273 -- 206 [
+    weight=1
+  ];
+  171 -- 132 [
+    weight=3
+  ];
+  240 -- 41 [
+    weight=9
+  ];
+  148 -- 70 [
+    weight=1
+  ];
+  184 -- 20 [
+    weight=1
+  ];
+  230 -- 57 [
+    weight=2
+  ];
+  265 -- 216 [
+    weight=1
+  ];
+  198 -- 22 [
+    weight=1
+  ];
+  107 -- 41 [
+    weight=1
+  ];
+  204 -- 168 [
+    weight=1
+  ];
+  157 -- 46 [
+    weight=2
+  ];
+  214 -- 180 [
+    weight=1
+  ];
+  152 -- 39 [
+    weight=2
+  ];
+  219 -- 146 [
+    weight=1
+  ];
+  236 -- 0 [
+    weight=1
+  ];
+  331 -- 230 [
+    weight=1
+  ];
+  83 -- 34 [
+    weight=16
+  ];
+  330 -- 86 [
+    weight=1
+  ];
+  160 -- 116 [
+    weight=1
+  ];
+  132 -- 120 [
+    weight=1
+  ];
+  203 -- 174 [
+    weight=1
+  ];
+  277 -- 257 [
+    weight=1
+  ];
+  317 -- 74 [
+    weight=2
+  ];
+  313 -- 61 [
+    weight=1
+  ];
+  264 -- 142 [
+    weight=5
+  ];
+  223 -- 218 [
+    weight=2
+  ];
+  190 -- 124 [
+    weight=1
+  ];
+  52 -- 3 [
+    weight=2
+  ];
+  273 -- 247 [
+    weight=10
+  ];
+  187 -- 83 [
+    weight=2
+  ];
+  150 -- 6 [
+    weight=1
+  ];
+  329 -- 142 [
+    weight=7
+  ];
+  156 -- 92 [
+    weight=1
+  ];
+  330 -- 241 [
+    weight=1
+  ];
+  159 -- 156 [
+    weight=1
+  ];
+  289 -- 43 [
+    weight=1
+  ];
+  273 -- 243 [
+    weight=9
+  ];
+  171 -- 62 [
+    weight=1
+  ];
+  273 -- 172 [
+    weight=36
+  ];
+  312 -- 3 [
+    weight=9
+  ];
+  283 -- 176 [
+    weight=1
+  ];
+  213 -- 174 [
+    weight=1
+  ];
+  158 -- 128 [
+    weight=1
+  ];
+  259 -- 82 [
+    weight=2
+  ];
+  299 -- 161 [
+    weight=1
+  ];
+  213 -- 122 [
+    weight=2
+  ];
+  295 -- 34 [
+    weight=12
+  ];
+  240 -- 54 [
+    weight=1
+  ];
+  325 -- 294 [
+    weight=7
+  ];
+  252 -- 32 [
+    weight=2
+  ];
+  39 -- 20 [
+    weight=1
+  ];
+  270 -- 128 [
+    weight=2
+  ];
+  293 -- 21 [
+    weight=1
+  ];
+  286 -- 98 [
+    weight=1
+  ];
+  221 -- 26 [
+    weight=1
+  ];
+  86 -- 58 [
+    weight=2
+  ];
+  19 -- 3 [
+    weight=37
+  ];
+  172 -- 41 [
+    weight=22
+  ];
+  158 -- 74 [
+    weight=1
+  ];
+  241 -- 102 [
+    weight=1
+  ];
+  216 -- 122 [
+    weight=1
+  ];
+  328 -- 244 [
+    weight=7
+  ];
+  264 -- 157 [
+    weight=1
+  ];
+  230 -- 101 [
+    weight=1
+  ];
+  92 -- 32 [
+    weight=1
+  ];
+  106 -- 3 [
+    weight=1
+  ];
+  216 -- 178 [
+    weight=1
+  ];
+  34 -- 15 [
+    weight=1
+  ];
+  328 -- 34 [
+    weight=14
+  ];
+  206 -- 90 [
+    weight=1
+  ];
+  142 -- 34 [
+    weight=41
+  ];
+  247 -- 180 [
+    weight=3
+  ];
+  321 -- 230 [
+    weight=2
+  ];
+  292 -- 142 [
+    weight=3
+  ];
+  180 -- 83 [
+    weight=7
+  ];
+  235 -- 179 [
+    weight=2
+  ];
+  273 -- 114 [
+    weight=1
+  ];
+  122 -- 7 [
+    weight=1
+  ];
+  170 -- 83 [
+    weight=1
+  ];
+  244 -- 219 [
+    weight=2
+  ];
+  46 -- 41 [
+    weight=41
+  ];
+  280 -- 41 [
+    weight=15
+  ];
+  329 -- 247 [
+    weight=1
+  ];
+  230 -- 132 [
+    weight=2
+  ];
+  322 -- 124 [
+    weight=1
+  ];
+  172 -- 142 [
+    weight=11
+  ];
+  111 -- 3 [
+    weight=1
+  ];
+  174 -- 81 [
+    weight=2
+  ];
+  230 -- 158 [
+    weight=1
+  ];
+  41 -- 28 [
+    weight=1
+  ];
+  270 -- 120 [
+    weight=1
+  ];
+  160 -- 58 [
+    weight=1
+  ];
+  206 -- 153 [
+    weight=1
+  ];
+  218 -- 86 [
+    weight=1
+  ];
+  193 -- 99 [
+    weight=1
+  ];
+  105 -- 74 [
+    weight=2
+  ];
+  327 -- 43 [
+    weight=5
+  ];
+  88 -- 19 [
+    weight=1
+  ];
+  78 -- 25 [
+    weight=3
+  ];
+  301 -- 92 [
+    weight=2
+  ];
+  200 -- 85 [
+    weight=3
+  ];
+  313 -- 31 [
+    weight=1
+  ];
+  155 -- 142 [
+    weight=2
+  ];
+  119 -- 117 [
+    weight=1
+  ];
+  90 -- 5 [
+    weight=1
+  ];
+  317 -- 223 [
+    weight=2
+  ];
+  317 -- 218 [
+    weight=1
+  ];
+  230 -- 195 [
+    weight=1
+  ];
+  174 -- 131 [
+    weight=1
+  ];
+  313 -- 158 [
+    weight=1
+  ];
+  96 -- 86 [
+    weight=1
+  ];
+  222 -- 213 [
+    weight=1
+  ];
+  273 -- 83 [
+    weight=19
+  ];
+  152 -- 5 [
+    weight=1
+  ];
+  41 -- 34 [
+    weight=96
+  ];
+  187 -- 34 [
+    weight=1
+  ];
+  265 -- 74 [
+    weight=2
+  ];
+  295 -- 240 [
+    weight=1
+  ];
+  295 -- 8 [
+    weight=12
+  ];
+  280 -- 243 [
+    weight=2
+  ];
+  281 -- 240 [
+    weight=1
+  ];
+  86 -- 31 [
+    weight=9
+  ];
+  90 -- 41 [
+    weight=8
+  ];
+  322 -- 301 [
+    weight=2
+  ];
+  273 -- 53 [
+    weight=3
+  ];
+  160 -- 91 [
+    weight=2
+  ];
+  273 -- 163 [
+    weight=2
+  ];
+  180 -- 142 [
+    weight=22
+  ];
+  87 -- 58 [
+    weight=1
+  ];
+  230 -- 122 [
+    weight=1
+  ];
+  246 -- 184 [
+    weight=2
+  ];
+  78 -- 50 [
+    weight=1
+  ];
+  173 -- 142 [
+    weight=5
+  ];
+  241 -- 57 [
+    weight=1
+  ];
+  295 -- 146 [
+    weight=1
+  ];
+  80 -- 19 [
+    weight=1
+  ];
+  119 -- 42 [
+    weight=2
+  ];
+  52 -- 19 [
+    weight=1
+  ];
+  172 -- 46 [
+    weight=9
+  ];
+  160 -- 75 [
+    weight=1
+  ];
+  73 -- 20 [
+    weight=1
+  ];
+  172 -- 54 [
+    weight=2
+  ];
+  124 -- 32 [
+    weight=1
+  ];
+  329 -- 180 [
+    weight=2
+  ];
+  142 -- 109 [
+    weight=1
+  ];
+  219 -- 15 [
+    weight=1
+  ];
+  295 -- 187 [
+    weight=1
+  ];
+  101 -- 31 [
+    weight=1
+  ];
+  295 -- 254 [
+    weight=2
+  ];
+  230 -- 61 [
+    weight=3
+  ];
+  147 -- 75 [
+    weight=3
+  ];
+  281 -- 26 [
+    weight=1
+  ];
+  323 -- 62 [
+    weight=1
+  ];
+  328 -- 280 [
+    weight=1
+  ];
+  323 -- 145 [
+    weight=2
+  ];
+  202 -- 8 [
+    weight=1
+  ];
+  68 -- 62 [
+    weight=1
+  ];
+  131 -- 62 [
+    weight=1
+  ];
+  61 -- 58 [
+    weight=1
+  ];
+  230 -- 35 [
+    weight=1
+  ];
+  322 -- 234 [
+    weight=1
+  ];
+  155 -- 46 [
+    weight=2
+  ];
+  186 -- 0 [
+    weight=1
+  ];
+  163 -- 41 [
+    weight=9
+  ];
+  122 -- 74 [
+    weight=1
+  ];
+  219 -- 8 [
+    weight=2
+  ];
+  295 -- 41 [
+    weight=47
+  ];
+  87 -- 13 [
+    weight=1
+  ];
+  167 -- 90 [
+    weight=1
+  ];
+  265 -- 51 [
+    weight=1
+  ];
+  317 -- 66 [
+    weight=1
+  ];
+  292 -- 264 [
+    weight=2
+  ];
+  301 -- 234 [
+    weight=1
+  ];
+  330 -- 75 [
+    weight=1
+  ];
+  308 -- 244 [
+    weight=1
+  ];
+  291 -- 243 [
+    weight=3
+  ];
+  184 -- 90 [
+    weight=1
+  ];
+  288 -- 82 [
+    weight=1
+  ];
+  200 -- 31 [
+    weight=1
+  ];
+  286 -- 231 [
+    weight=1
+  ];
+  323 -- 230 [
+    weight=1
+  ];
+  132 -- 57 [
+    weight=1
+  ];
+  294 -- 34 [
+    weight=3
+  ];
+  296 -- 233 [
+    weight=1
+  ];
+  259 -- 17 [
+    weight=1
+  ];
+  216 -- 211 [
+    weight=1
+  ];
+  233 -- 189 [
+    weight=1
+  ];
+  295 -- 219 [
+    weight=1
+  ];
+  214 -- 41 [
+    weight=9
+  ];
+  203 -- 86 [
+    weight=1
+  ];
+  222 -- 140 [
+    weight=1
+  ];
+  182 -- 87 [
+    weight=3
+  ];
+  53 -- 8 [
+    weight=1
+  ];
+  330 -- 96 [
+    weight=1
+  ];
+  195 -- 35 [
+    weight=1
+  ];
+  323 -- 166 [
+    weight=1
+  ];
+  142 -- 53 [
+    weight=16
+  ];
+  140 -- 131 [
+    weight=1
+  ];
+  230 -- 75 [
+    weight=1
+  ];
+  284 -- 134 [
+    weight=1
+  ];
+  266 -- 43 [
+    weight=11
+  ];
+  132 -- 94 [
+    weight=1
+  ];
+  269 -- 152 [
+    weight=1
+  ];
+  278 -- 235 [
+    weight=1
+  ];
+  254 -- 34 [
+    weight=1
+  ];
+  260 -- 86 [
+    weight=2
+  ];
+  296 -- 222 [
+    weight=2
+  ];
+  160 -- 86 [
+    weight=3
+  ];
+  252 -- 156 [
+    weight=1
+  ];
+  218 -- 160 [
+    weight=4
+  ];
+  270 -- 178 [
+    weight=1
+  ];
+  200 -- 161 [
+    weight=3
+  ];
+  244 -- 142 [
+    weight=10
+  ];
+  68 -- 31 [
+    weight=1
+  ];
+  327 -- 266 [
+    weight=2
+  ];
+  175 -- 7 [
+    weight=1
+  ];
+  159 -- 92 [
+    weight=1
+  ];
+  280 -- 214 [
+    weight=1
+  ];
+  209 -- 87 [
+    weight=1
+  ];
+  62 -- 31 [
+    weight=2
+  ];
+  243 -- 34 [
+    weight=6
+  ];
+  234 -- 32 [
+    weight=2
+  ];
+  273 -- 18 [
+    weight=2
+  ];
+  291 -- 83 [
+    weight=5
+  ];
+  154 -- 9 [
+    weight=1
+  ];
+  291 -- 34 [
+    weight=16
+  ];
+  329 -- 202 [
+    weight=1
+  ];
+  201 -- 76 [
+    weight=1
+  ];
+  142 -- 95 [
+    weight=23
+  ];
+  207 -- 144 [
+    weight=1
+  ];
+  53 -- 41 [
+    weight=1
+  ];
+  223 -- 132 [
+    weight=2
+  ];
+  123 -- 19 [
+    weight=1
+  ];
+  191 -- 131 [
+    weight=1
+  ];
+  141 -- 83 [
+    weight=2
+  ];
+  295 -- 142 [
+    weight=13
+  ];
+  241 -- 75 [
+    weight=1
+  ];
+  58 -- 1 [
+    weight=1
+  ];
+  317 -- 160 [
+    weight=2
+  ];
+  172 -- 146 [
+    weight=1
+  ];
+  264 -- 49 [
+    weight=1
+  ];
+  296 -- 160 [
+    weight=1
+  ];
+  35 -- 31 [
+    weight=1
+  ];
+  291 -- 95 [
+    weight=15
+  ];
+  301 -- 82 [
+    weight=10
+  ];
+  324 -- 35 [
+    weight=1
+  ];
+  86 -- 62 [
+    weight=1
+  ];
+  153 -- 44 [
+    weight=2
+  ];
+  223 -- 75 [
+    weight=3
+  ];
+  162 -- 152 [
+    weight=1
+  ];
+  304 -- 43 [
+    weight=1
+  ];
+  296 -- 223 [
+    weight=1
+  ];
+  301 -- 185 [
+    weight=1
+  ];
+  217 -- 3 [
+    weight=1
+  ];
+  280 -- 103 [
+    weight=1
+  ];
+  203 -- 81 [
+    weight=1
+  ];
+  229 -- 180 [
+    weight=1
+  ];
+  323 -- 61 [
+    weight=1
+  ];
+  331 -- 75 [
+    weight=1
+  ];
+  299 -- 200 [
+    weight=1
+  ];
+  74 -- 57 [
+    weight=1
+  ];
+  86 -- 63 [
+    weight=4
+  ];
+  280 -- 46 [
+    weight=17
+  ];
+  152 -- 73 [
+    weight=4
+  ];
+  120 -- 86 [
+    weight=1
+  ];
+  179 -- 84 [
+    weight=1
+  ];
+  328 -- 273 [
+    weight=14
+  ];
+  303 -- 207 [
+    weight=1
+  ];
+  137 -- 31 [
+    weight=1
+  ];
+  295 -- 157 [
+    weight=1
+  ];
+  256 -- 183 [
+    weight=1
+  ];
+  86 -- 35 [
+    weight=2
+  ];
+  288 -- 259 [
+    weight=1
+  ];
+  293 -- 103 [
+    weight=1
+  ];
+  191 -- 69 [
+    weight=3
+  ];
+  301 -- 259 [
+    weight=8
+  ];
+  180 -- 95 [
+    weight=5
+  ];
+  145 -- 136 [
+    weight=1
+  ];
+  244 -- 34 [
+    weight=5
+  ];
+  206 -- 75 [
+    weight=1
+  ];
+  108 -- 42 [
+    weight=1
+  ];
+  62 -- 57 [
+    weight=1
+  ];
+  284 -- 104 [
+    weight=1
+  ];
+  291 -- 53 [
+    weight=2
+  ];
+  157 -- 41 [
+    weight=3
+  ];
+  101 -- 41 [
+    weight=1
+  ];
+  254 -- 244 [
+    weight=1
+  ];
+  300 -- 152 [
+    weight=1
+  ];
+  188 -- 10 [
+    weight=1
+  ];
+  277 -- 219 [
+    weight=1
+  ];
+  43 -- 4 [
+    weight=1
+  ];
+  325 -- 249 [
+    weight=1
+  ];
+  116 -- 31 [
+    weight=4
+  ];
+  110 -- 43 [
+    weight=1
+  ];
+  142 -- 54 [
+    weight=3
+  ];
+  329 -- 46 [
+    weight=2
+  ];
+  179 -- 124 [
+    weight=3
+  ];
+  280 -- 247 [
+    weight=10
+  ];
+  273 -- 119 [
+    weight=3
+  ];
+  313 -- 75 [
+    weight=1
+  ];
+  227 -- 74 [
+    weight=1
+  ];
+  317 -- 31 [
+    weight=2
+  ];
+  281 -- 152 [
+    weight=5
+  ];
+  260 -- 33 [
+    weight=1
+  ];
+  213 -- 63 [
+    weight=2
+  ];
+  171 -- 158 [
+    weight=1
+  ];
+  41 -- 18 [
+    weight=5
+  ];
+  297 -- 34 [
+    weight=1
+  ];
+  142 -- 83 [
+    weight=39
+  ];
+  160 -- 7 [
+    weight=1
+  ];
+  43 -- 3 [
+    weight=4
+  ];
+  218 -- 74 [
+    weight=2
+  ];
+  221 -- 157 [
+    weight=1
+  ];
+  75 -- 27 [
+    weight=1
+  ];
+  331 -- 175 [
+    weight=1
+  ];
+  329 -- 34 [
+    weight=2
+  ];
+  291 -- 219 [
+    weight=1
+  ];
+  171 -- 31 [
+    weight=1
+  ];
+  327 -- 10 [
+    weight=2
+  ];
+  253 -- 206 [
+    weight=1
+  ];
+  317 -- 166 [
+    weight=1
+  ];
+  302 -- 256 [
+    weight=1
+  ];
+  317 -- 131 [
+    weight=1
+  ];
+  146 -- 34 [
+    weight=1
+  ];
+  187 -- 8 [
+    weight=1
+  ];
+  240 -- 95 [
+    weight=3
+  ];
+  290 -- 172 [
+    weight=1
+  ];
+  273 -- 15 [
+    weight=1
+  ];
+  222 -- 23 [
+    weight=1
+  ];
+  107 -- 95 [
+    weight=1
+  ];
+  293 -- 62 [
+    weight=1
+  ];
+  224 -- 100 [
+    weight=4
+  ];
+  303 -- 144 [
+    weight=2
+  ];
+  247 -- 142 [
+    weight=7
+  ];
+  294 -- 70 [
+    weight=1
+  ];
+  233 -- 86 [
+    weight=1
+  ];
+  180 -- 15 [
+    weight=1
+  ];
+  132 -- 116 [
+    weight=1
+  ];
+  253 -- 152 [
+    weight=1
+  ];
+  125 -- 31 [
+    weight=1
+  ];
+  244 -- 83 [
+    weight=1
+  ];
+  140 -- 58 [
+    weight=1
+  ];
+  331 -- 189 [
+    weight=1
+  ];
+  274 -- 244 [
+    weight=2
+  ];
+  218 -- 7 [
+    weight=1
+  ];
+  221 -- 184 [
+    weight=7
+  ];
+  270 -- 265 [
+    weight=2
+  ];
+  307 -- 152 [
+    weight=1
+  ];
+  131 -- 63 [
+    weight=2
+  ];
+  91 -- 23 [
+    weight=1
+  ];
+  309 -- 194 [
+    weight=1
+  ];
+  214 -- 34 [
+    weight=1
+  ];
+  42 -- 10 [
+    weight=2
+  ];
+  121 -- 53 [
+    weight=1
+  ];
+  328 -- 127 [
+    weight=1
+  ];
+  152 -- 36 [
+    weight=1
+  ];
+  90 -- 13 [
+    weight=1
+  ];
+  166 -- 31 [
+    weight=4
+  ];
+  180 -- 46 [
+    weight=9
+  ];
+  265 -- 71 [
+    weight=1
+  ];
+  292 -- 41 [
+    weight=3
+  ];
+  216 -- 31 [
+    weight=3
+  ];
+  74 -- 29 [
+    weight=1
+  ];
+  243 -- 180 [
+    weight=3
+  ];
+  58 -- 31 [
+    weight=3
+  ];
+  145 -- 74 [
+    weight=1
+  ];
+  247 -- 172 [
+    weight=2
+  ];
+  223 -- 69 [
+    weight=1
+  ];
+  331 -- 122 [
+    weight=1
+  ];
+  268 -- 31 [
+    weight=1
+  ];
+  238 -- 142 [
+    weight=1
+  ];
+  213 -- 132 [
+    weight=1
+  ];
+  331 -- 166 [
+    weight=1
+  ];
+  233 -- 222 [
+    weight=1
+  ];
+  265 -- 66 [
+    weight=1
+  ];
+  184 -- 167 [
+    weight=2
+  ];
+  16 -- 3 [
+    weight=7
+  ];
+  218 -- 129 [
+    weight=1
+  ];
+  265 -- 61 [
+    weight=2
+  ];
+  291 -- 157 [
+    weight=1
+  ];
+  296 -- 58 [
+    weight=1
+  ];
+  229 -- 46 [
+    weight=1
+  ];
+  296 -- 23 [
+    weight=1
+  ];
+  285 -- 2 [
+    weight=1
+  ];
+  328 -- 219 [
+    weight=1
+  ];
+  71 -- 29 [
+    weight=1
+  ];
+  328 -- 247 [
+    weight=2
+  ];
+  264 -- 113 [
+    weight=1
+  ];
+  243 -- 28 [
+    weight=1
+  ];
+  325 -- 134 [
+    weight=1
+  ];
+  287 -- 6 [
+    weight=1
+  ];
+  219 -- 180 [
+    weight=11
+  ];
+  230 -- 66 [
+    weight=1
+  ];
+  243 -- 219 [
+    weight=2
+  ];
+  219 -- 157 [
+    weight=2
+  ];
+  202 -- 46 [
+    weight=5
+  ];
+  173 -- 46 [
+    weight=2
+  ];
+  313 -- 63 [
+    weight=2
+  ];
+  128 -- 57 [
+    weight=1
+  ];
+  160 -- 69 [
+    weight=2
+  ];
+  252 -- 179 [
+    weight=3
+  ];
+  205 -- 2 [
+    weight=3
+  ];
+  292 -- 95 [
+    weight=1
+  ];
+  160 -- 61 [
+    weight=2
+  ];
+  172 -- 34 [
+    weight=11
+  ];
+  219 -- 172 [
+    weight=5
+  ];
+  290 -- 109 [
+    weight=2
+  ];
+  322 -- 179 [
+    weight=3
+  ];
+  202 -- 142 [
+    weight=4
+  ];
+  328 -- 41 [
+    weight=13
+  ];
+  323 -- 154 [
+    weight=1
+  ];
+  142 -- 41 [
+    weight=184
+  ];
+  297 -- 41 [
+    weight=3
+  ];
+  223 -- 166 [
+    weight=3
+  ];
+  69 -- 31 [
+    weight=1
+  ];
+  262 -- 145 [
+    weight=3
+  ];
+  233 -- 160 [
+    weight=1
+  ];
+  229 -- 187 [
+    weight=1
+  ];
+  41 -- 8 [
+    weight=17
+  ];
+  170 -- 41 [
+    weight=4
+  ];
+  198 -- 78 [
+    weight=1
+  ];
+  243 -- 41 [
+    weight=38
+  ];
+  234 -- 92 [
+    weight=1
+  ];
+  273 -- 238 [
+    weight=1
+  ];
+  278 -- 252 [
+    weight=1
+  ];
+  320 -- 224 [
+    weight=9
+  ];
+  265 -- 29 [
+    weight=2
+  ];
+  240 -- 232 [
+    weight=1
+  ];
+  287 -- 150 [
+    weight=1
+  ];
+  148 -- 104 [
+    weight=1
+  ];
+  273 -- 47 [
+    weight=1
+  ];
+  153 -- 26 [
+    weight=3
+  ];
+  172 -- 95 [
+    weight=2
+  ];
+  223 -- 23 [
+    weight=1
+  ];
+  294 -- 284 [
+    weight=3
+  ];
+  89 -- 64 [
+    weight=9
+  ];
+  230 -- 116 [
+    weight=1
+  ];
+  155 -- 41 [
+    weight=2
+  ];
+  295 -- 83 [
+    weight=1
+  ];
+  320 -- 100 [
+    weight=20
+  ];
+  312 -- 60 [
+    weight=1
+  ];
+  219 -- 53 [
+    weight=1
+  ];
+  288 -- 124 [
+    weight=2
+  ];
+  301 -- 17 [
+    weight=2
+  ];
+  140 -- 81 [
+    weight=1
+  ];
+  23 -- 7 [
+    weight=1
+  ];
+  128 -- 86 [
+    weight=1
+  ];
+  250 -- 56 [
+    weight=2
+  ];
+  247 -- 146 [
+    weight=1
+  ];
+  328 -- 292 [
+    weight=1
+  ];
+  318 -- 230 [
+    weight=1
+  ];
+  112 -- 41 [
+    weight=1
+  ];
+  224 -- 38 [
+    weight=2
+  ];
+  197 -- 89 [
+    weight=1
+  ];
+  259 -- 92 [
+    weight=1
+  ];
+  218 -- 175 [
+    weight=1
+  ];
+  291 -- 54 [
+    weight=2
+  ];
+  280 -- 254 [
+    weight=2
+  ];
+  302 -- 272 [
+    weight=1
+  ];
+  219 -- 142 [
+    weight=22
+  ];
+  329 -- 138 [
+    weight=1
+  ];
+  324 -- 174 [
+    weight=1
+  ];
+  321 -- 125 [
+    weight=2
+  ];
+  273 -- 41 [
+    weight=140
+  ];
+  313 -- 223 [
+    weight=1
+  ];
+  223 -- 91 [
+    weight=1
+  ];
+  146 -- 95 [
+    weight=1
+  ];
+  306 -- 100 [
+    weight=6
+  ];
+  317 -- 195 [
+    weight=1
+  ];
+  322 -- 82 [
+    weight=1
+  ];
+  87 -- 44 [
+    weight=1
+  ];
+  112 -- 46 [
+    weight=1
+  ];
+  295 -- 95 [
+    weight=3
+  ];
+  222 -- 174 [
+    weight=2
+  ];
+  328 -- 295 [
+    weight=1
+  ];
+  329 -- 41 [
+    weight=9
+  ];
+  233 -- 23 [
+    weight=1
+  ];
+  179 -- 32 [
+    weight=1
+  ];
+  202 -- 83 [
+    weight=1
+  ];
+  294 -- 135 [
+    weight=2
+  ];
+  273 -- 264 [
+    weight=5
+  ];
+  180 -- 34 [
+    weight=10
+  ];
+  132 -- 61 [
+    weight=1
+  ];
+  230 -- 223 [
+    weight=2
+  ];
+  230 -- 218 [
+    weight=1
+  ];
+  329 -- 83 [
+    weight=1
+  ];
+  171 -- 1 [
+    weight=1
+  ];
+  203 -- 128 [
+    weight=1
+  ];
+  50 -- 22 [
+    weight=1
+  ];
+  291 -- 254 [
+    weight=1
+  ];
+  259 -- 124 [
+    weight=1
+  ];
+  147 -- 31 [
+    weight=2
+  ];
+  219 -- 54 [
+    weight=1
+  ];
+  224 -- 0 [
+    weight=1
+  ];
+  219 -- 83 [
+    weight=6
+  ];
+  290 -- 41 [
+    weight=2
+  ];
+  163 -- 142 [
+    weight=2
+  ];
+  319 -- 266 [
+    weight=1
+  ];
+  139 -- 119 [
+    weight=3
+  ];
+  313 -- 137 [
+    weight=1
+  ];
+  87 -- 73 [
+    weight=2
+  ];
+  171 -- 160 [
+    weight=1
+  ];
+  103 -- 51 [
+    weight=1
+  ];
+  163 -- 46 [
+    weight=1
+  ];
+  296 -- 230 [
+    weight=2
+  ];
+  271 -- 261 [
+    weight=1
+  ];
+  120 -- 31 [
+    weight=1
+  ];
+  301 -- 288 [
+    weight=4
+  ];
+  142 -- 46 [
+    weight=35
+  ];
+  296 -- 122 [
+    weight=1
+  ];
+  166 -- 75 [
+    weight=2
+  ];
+  261 -- 60 [
+    weight=2
+  ];
+  102 -- 63 [
+    weight=1
+  ];
+  261 -- 3 [
+    weight=5
+  ];
+  331 -- 317 [
+    weight=1
+  ];
+  184 -- 39 [
+    weight=2
+  ];
+  160 -- 145 [
+    weight=4
+  ];
+  320 -- 250 [
+    weight=1
+  ];
+  131 -- 31 [
+    weight=1
+  ];
+  291 -- 155 [
+    weight=1
+  ];
+  182 -- 152 [
+    weight=1
+  ];
+  160 -- 63 [
+    weight=1
+  ];
+  159 -- 82 [
+    weight=1
+  ];
+  230 -- 3 [
+    weight=6
+  ];
+  138 -- 41 [
+    weight=1
+  ];
+  243 -- 172 [
+    weight=3
+  ];
+  87 -- 26 [
+    weight=2
+  ];
+  265 -- 160 [
+    weight=4
+  ];
+  157 -- 95 [
+    weight=1
+  ];
+  229 -- 95 [
+    weight=1
+  ];
+  329 -- 107 [
+    weight=1
+  ];
+  87 -- 5 [
+    weight=2
+  ];
+  213 -- 23 [
+    weight=1
+  ];
+  174 -- 160 [
+    weight=1
+  ];
+  314 -- 126 [
+    weight=6
+  ];
+  265 -- 218 [
+    weight=1
+  ];
+  223 -- 116 [
+    weight=1
+  ];
+  329 -- 280 [
+    weight=1
+  ];
+  320 -- 171 [
+    weight=1
+  ];
+  317 -- 265 [
+    weight=3
+  ];
+  273 -- 54 [
+    weight=3
+  ];
+  222 -- 122 [
+    weight=1
+  ];
+  273 -- 155 [
+    weight=1
+  ];
+  125 -- 62 [
+    weight=1
+  ];
+  95 -- 41 [
+    weight=25
+  ];
+  214 -- 47 [
+    weight=1
+  ];
+  241 -- 96 [
+    weight=1
+  ];
+  243 -- 163 [
+    weight=1
+  ];
+  273 -- 248 [
+    weight=1
+  ];
+  331 -- 213 [
+    weight=1
+  ];
+  249 -- 70 [
+    weight=1
+  ];
+  184 -- 26 [
+    weight=3
+  ];
+  295 -- 244 [
+    weight=1
+  ];
+  269 -- 184 [
+    weight=2
+  ];
+  317 -- 103 [
+    weight=1
+  ];
+  169 -- 119 [
+    weight=1
+  ];
+  53 -- 34 [
+    weight=2
+  ];
+  243 -- 95 [
+    weight=3
+  ];
+  320 -- 272 [
+    weight=2
+  ];
+  306 -- 201 [
+    weight=2
+  ];
+  321 -- 216 [
+    weight=1
+  ];
+  291 -- 240 [
+    weight=1
+  ];
+  174 -- 35 [
+    weight=1
+  ];
+  133 -- 88 [
+    weight=1
+  ];
+  280 -- 219 [
+    weight=3
+  ];
+  320 -- 0 [
+    weight=2
+  ];
+  83 -- 53 [
+    weight=2
+  ];
+  75 -- 58 [
+    weight=1
+  ];
+  78 -- 22 [
+    weight=4
+  ];
+  291 -- 46 [
+    weight=6
+  ];
+  31 -- 29 [
+    weight=1
+  ];
+  270 -- 260 [
+    weight=1
+  ];
+  296 -- 128 [
+    weight=1
+  ];
+  132 -- 75 [
+    weight=1
+  ];
+  219 -- 95 [
+    weight=5
+  ];
+  320 -- 201 [
+    weight=2
+  ];
+  265 -- 31 [
+    weight=4
+  ];
+  326 -- 302 [
+    weight=1
+  ];
+  171 -- 58 [
+    weight=1
+  ];
+  244 -- 107 [
+    weight=1
+  ];
+  211 -- 63 [
+    weight=1
+  ];
+  318 -- 57 [
+    weight=1
+  ];
+  160 -- 136 [
+    weight=1
+  ];
+  254 -- 46 [
+    weight=5
+  ];
+  240 -- 83 [
+    weight=3
+  ];
+  282 -- 132 [
+    weight=1
+  ];
+  320 -- 6 [
+    weight=9
+  ];
+  277 -- 142 [
+    weight=1
+  ];
+  54 -- 49 [
+    weight=1
+  ];
+  317 -- 262 [
+    weight=1
+  ];
+  330 -- 260 [
+    weight=1
+  ];
+  259 -- 252 [
+    weight=1
+  ];
+  125 -- 81 [
+    weight=1
+  ];
+  258 -- 73 [
+    weight=1
+  ];
+  273 -- 173 [
+    weight=4
+  ];
+  331 -- 223 [
+    weight=5
+  ];
+  152 -- 90 [
+    weight=1
+  ];
+  147 -- 131 [
+    weight=1
+  ];
+  302 -- 183 [
+    weight=1
+  ];
+  296 -- 213 [
+    weight=1
+  ];
+  125 -- 86 [
+    weight=1
+  ];
+  317 -- 241 [
+    weight=1
+  ];
+  219 -- 173 [
+    weight=1
+  ];
+  205 -- 59 [
+    weight=1
+  ];
+  206 -- 152 [
+    weight=7
+  ];
+  230 -- 145 [
+    weight=1
+  ];
+  301 -- 100 [
+    weight=3
+  ];
+  142 -- 15 [
+    weight=3
+  ];
+  180 -- 146 [
+    weight=1
+  ];
+  252 -- 82 [
+    weight=3
+  ];
+  219 -- 46 [
+    weight=9
+  ];
+  162 -- 26 [
+    weight=1
+  ];
+  214 -- 142 [
+    weight=3
+  ];
+  75 -- 72 [
+    weight=1
+  ];
+  97 -- 13 [
+    weight=1
+  ];
+  313 -- 58 [
+    weight=1
+  ];
+  328 -- 240 [
+    weight=1
+  ];
+  329 -- 213 [
+    weight=1
+  ];
+  301 -- 159 [
+    weight=2
+  ];
+  147 -- 29 [
+    weight=1
+  ];
+  262 -- 223 [
+    weight=1
+  ];
+  129 -- 31 [
+    weight=1
+  ];
+  54 -- 41 [
+    weight=5
+  ];
+  214 -- 172 [
+    weight=2
+  ];
+  269 -- 221 [
+    weight=1
+  ];
+  142 -- 112 [
+    weight=2
+  ];
+  95 -- 53 [
+    weight=3
+  ];
+  184 -- 152 [
+    weight=10
+  ];
+  246 -- 73 [
+    weight=1
+  ];
+  221 -- 152 [
+    weight=4
+  ];
+  142 -- 82 [
+    weight=2
+  ];
+  329 -- 240 [
+    weight=1
+  ];
+  31 -- 21 [
+    weight=1
+  ];
+  291 -- 41 [
+    weight=21
+  ];
+  285 -- 205 [
+    weight=1
+  ];
+  160 -- 9 [
+    weight=1
+  ];
+  222 -- 132 [
+    weight=1
+  ];
+  86 -- 75 [
+    weight=2
+  ];
+  261 -- 19 [
+    weight=1
+  ];
+  160 -- 132 [
+    weight=1
+  ];
+  301 -- 208 [
+    weight=2
+  ];
+  131 -- 81 [
+    weight=1
+  ];
+  273 -- 127 [
+    weight=1
+  ];
+  317 -- 35 [
+    weight=1
+  ];
+  331 -- 218 [
+    weight=2
+  ];
+  97 -- 87 [
+    weight=2
+  ];
+  273 -- 11 [
+    weight=2
+  ];
+  253 -- 26 [
+    weight=1
+  ];
+  63 -- 31 [
+    weight=5
+  ];
+  223 -- 160 [
+    weight=6
+  ];
+  75 -- 68 [
+    weight=1
+  ];
+  160 -- 66 [
+    weight=5
+  ];
+  230 -- 74 [
+    weight=1
+  ];
+  301 -- 118 [
+    weight=2
+  ];
+  331 -- 31 [
+    weight=1
+  ];
+  265 -- 128 [
+    weight=1
+  ];
+  316 -- 208 [
+    weight=1
+  ];
+  180 -- 173 [
+    weight=1
+  ];
+  31 -- 1 [
+    weight=1
+  ];
+  158 -- 63 [
+    weight=1
+  ];
+  116 -- 86 [
+    weight=2
+  ];
+  273 -- 180 [
+    weight=17
+  ];
+  174 -- 140 [
+    weight=1
+  ];
+  311 -- 184 [
+    weight=1
+  ];
+  323 -- 317 [
+    weight=1
+  ];
+  257 -- 142 [
+    weight=2
+  ];
+  107 -- 34 [
+    weight=3
+  ];
+  273 -- 257 [
+    weight=1
+  ];
+  160 -- 147 [
+    weight=1
+  ];
+  247 -- 34 [
+    weight=14
+  ];
+  291 -- 229 [
+    weight=1
+  ];
+  273 -- 109 [
+    weight=1
+  ];
+  194 -- 89 [
+    weight=1
+  ];
+  329 -- 53 [
+    weight=3
+  ];
+  273 -- 49 [
+    weight=1
+  ];
+  317 -- 75 [
+    weight=2
+  ];
+  312 -- 19 [
+    weight=6
+  ];
+  71 -- 30 [
+    weight=1
+  ];
+  206 -- 87 [
+    weight=5
+  ];
+  243 -- 214 [
+    weight=1
+  ];
+  294 -- 274 [
+    weight=7
+  ];
+  119 -- 43 [
+    weight=2
+  ];
+  273 -- 187 [
+    weight=3
+  ];
+  154 -- 31 [
+    weight=1
+  ];
+  296 -- 132 [
+    weight=2
+  ];
+  265 -- 103 [
+    weight=2
+  ];
+  180 -- 11 [
+    weight=2
+  ];
+  213 -- 211 [
+    weight=1
+  ];
+  297 -- 142 [
+    weight=2
+  ];
+  92 -- 82 [
+    weight=1
+  ];
+  109 -- 37 [
+    weight=1
+  ];
+  230 -- 31 [
+    weight=3
+  ];
+  323 -- 35 [
+    weight=1
+  ];
+  325 -- 225 [
+    weight=1
+  ];
+  227 -- 140 [
+    weight=1
+  ];
+  254 -- 41 [
+    weight=7
+  ];
+  270 -- 233 [
+    weight=1
+  ];
+  142 -- 121 [
+    weight=1
+  ];
+  100 -- 55 [
+    weight=1
+  ];
+  323 -- 262 [
+    weight=2
+  ];
+  218 -- 45 [
+    weight=1
+  ];
+  173 -- 172 [
+    weight=2
+  ];
+  306 -- 24 [
+    weight=1
+  ];
+  114 -- 34 [
+    weight=3
+  ];
+  142 -- 116 [
+    weight=3
+  ];
+  229 -- 142 [
+    weight=2
+  ];
+  152 -- 65 [
+    weight=1
+  ];
+  328 -- 229 [
+    weight=1
+  ];
+  309 -- 79 [
+    weight=1
+  ];
+  320 -- 306 [
+    weight=3
+  ];
+  44 -- 26 [
+    weight=2
+  ];
+  75 -- 71 [
+    weight=1
+  ];
+  75 -- 31 [
+    weight=7
+  ];
+  39 -- 26 [
+    weight=1
+  ];
+  105 -- 40 [
+    weight=1
+  ];
+  279 -- 193 [
+    weight=1
+  ];
+  224 -- 6 [
+    weight=1
+  ];
+  227 -- 58 [
+    weight=1
+  ];
+  94 -- 86 [
+    weight=1
+  ];
+  313 -- 195 [
+    weight=1
+  ];
+  306 -- 164 [
+    weight=1
+  ];
+  31 -- 14 [
+    weight=1
+  ];
+  206 -- 44 [
+    weight=1
+  ];
+  232 -- 41 [
+    weight=1
+  ];
+  213 -- 160 [
+    weight=1
+  ];
+  273 -- 46 [
+    weight=31
+  ];
+  177 -- 141 [
+    weight=1
+  ];
+  88 -- 48 [
+    weight=1
+  ];
+  157 -- 53 [
+    weight=1
+  ];
+  254 -- 247 [
+    weight=1
+  ];
+  295 -- 180 [
+    weight=5
+  ];
+  243 -- 142 [
+    weight=11
+  ];
+  222 -- 131 [
+    weight=1
+  ];
+  319 -- 43 [
+    weight=7
+  ];
+  163 -- 146 [
+    weight=2
+  ];
+  301 -- 252 [
+    weight=4
+  ];
+  95 -- 34 [
+    weight=11
+  ];
+  60 -- 3 [
+    weight=2
+  ];
+  262 -- 71 [
+    weight=1
+  ];
+  328 -- 180 [
+    weight=4
+  ];
+  277 -- 41 [
+    weight=1
+  ];
+  173 -- 11 [
+    weight=2
+  ];
+  31 -- 23 [
+    weight=1
+  ];
+  250 -- 226 [
+    weight=3
+  ];
+  265 -- 116 [
+    weight=10
+  ];
+  292 -- 54 [
+    weight=2
+  ];
+  282 -- 213 [
+    weight=1
+  ];
+  323 -- 75 [
+    weight=3
+  ];
+  131 -- 69 [
+    weight=1
+  ];
+  331 -- 58 [
+    weight=1
+  ];
+  251 -- 46 [
+    weight=1
+  ];
+  218 -- 213 [
+    weight=2
+  ];
+  331 -- 23 [
+    weight=1
+  ];
+  276 -- 152 [
+    weight=2
+  ];
+  157 -- 83 [
+    weight=1
+  ];
+  293 -- 31 [
+    weight=1
+  ];
+  103 -- 61 [
+    weight=1
+  ];
+  223 -- 86 [
+    weight=3
+  ];
+  273 -- 170 [
+    weight=1
+  ];
+  295 -- 273 [
+    weight=5
+  ];
+  272 -- 6 [
+    weight=1
+  ];
+  282 -- 222 [
+    weight=1
+  ];
+  323 -- 74 [
+    weight=1
+  ];
+  128 -- 29 [
+    weight=1
+  ];
+  213 -- 158 [
+    weight=1
+  ];
+  241 -- 86 [
+    weight=1
+  ];
+  254 -- 142 [
+    weight=1
+  ];
+  296 -- 31 [
+    weight=5
+  ];
+  281 -- 253 [
+    weight=1
+  ];
+  43 -- 42 [
+    weight=5
+  ];
+  147 -- 62 [
+    weight=1
+  ];
+  195 -- 125 [
+    weight=2
+  ];
+  86 -- 68 [
+    weight=1
+  ];
+  280 -- 142 [
+    weight=24
+  ];
+  292 -- 172 [
+    weight=3
+  ];
+  187 -- 180 [
+    weight=1
+  ];
+  146 -- 83 [
+    weight=1
+  ];
+  166 -- 116 [
+    weight=2
+  ];
+  183 -- 149 [
+    weight=1
+  ];
+  230 -- 160 [
+    weight=2
+  ];
+  188 -- 43 [
+    weight=1
+  ];
+  142 -- 3 [
+    weight=49
+  ];
+  184 -- 151 [
+    weight=1
+  ];
+  262 -- 166 [
+    weight=2
+  ];
+  116 -- 30 [
+    weight=1
+  ];
+  172 -- 114 [
+    weight=1
+  ];
+  222 -- 81 [
+    weight=2
+  ];
+  317 -- 71 [
+    weight=1
+  ];
+  97 -- 90 [
+    weight=1
+  ];
+  218 -- 105 [
+    weight=1
+  ];
+  51 -- 40 [
+    weight=1
+  ];
+  147 -- 35 [
+    weight=1
+  ];
+  273 -- 244 [
+    weight=11
+  ];
+  246 -- 221 [
+    weight=2
+  ];
+  132 -- 131 [
+    weight=1
+  ];
+  48 -- 3 [
+    weight=1
+  ];
+  301 -- 84 [
+    weight=1
+  ];
+  124 -- 118 [
+    weight=1
+  ];
+  315 -- 230 [
+    weight=1
+  ];
+  146 -- 142 [
+    weight=7
+  ];
+  116 -- 103 [
+    weight=1
+  ];
+  216 -- 132 [
+    weight=1
+  ];
+  96 -- 75 [
+    weight=1
+  ];
+  116 -- 1 [
+    weight=1
+  ];
+  170 -- 8 [
+    weight=1
+  ];
+  295 -- 243 [
+    weight=3
+  ];
+  264 -- 34 [
+    weight=1
+  ];
+  57 -- 31 [
+    weight=1
+  ];
+  152 -- 26 [
+    weight=4
+  ];
+  60 -- 19 [
+    weight=2
+  ];
+  143 -- 12 [
+    weight=1
+  ];
+  137 -- 61 [
+    weight=1
+  ];
+  122 -- 86 [
+    weight=1
+  ];
+  216 -- 171 [
+    weight=1
+  ];
+  230 -- 192 [
+    weight=1
+  ];
+  100 -- 6 [
+    weight=1
+  ];
+  258 -- 152 [
+    weight=1
+  ];
+  292 -- 34 [
+    weight=3
+  ];
+  166 -- 122 [
+    weight=1
+  ];
+  123 -- 106 [
+    weight=1
+  ];
+  301 -- 179 [
+    weight=5
+  ];
+  137 -- 58 [
+    weight=1
+  ];
+  328 -- 157 [
+    weight=2
+  ];
+  132 -- 122 [
+    weight=1
+  ];
+  57 -- 35 [
+    weight=1
+  ];
+  329 -- 273 [
+    weight=5
+  ];
+  252 -- 124 [
+    weight=1
+  ];
+  83 -- 54 [
+    weight=1
+  ];
+  161 -- 85 [
+    weight=3
+  ];
+  230 -- 166 [
+    weight=1
+  ];
+  239 -- 93 [
+    weight=1
+  ];
+  34 -- 8 [
+    weight=3
+  ];
+  328 -- 155 [
+    weight=1
+  ];
+  283 -- 34 [
+    weight=2
+  ];
+  132 -- 74 [
+    weight=1
+  ];
+  73 -- 39 [
+    weight=1
+  ];
+  172 -- 163 [
+    weight=3
+  ];
+  202 -- 41 [
+    weight=2
+  ];
+  331 -- 86 [
+    weight=2
+  ];
+  317 -- 132 [
+    weight=1
+  ];
+  214 -- 83 [
+    weight=1
+  ];
+  317 -- 230 [
+    weight=2
+  ];
+  328 -- 172 [
+    weight=3
+  ];
+  146 -- 41 [
+    weight=16
+  ];
+  309 -- 89 [
+    weight=4
+  ];
+  223 -- 57 [
+    weight=1
+  ];
+  223 -- 131 [
+    weight=1
+  ];
+  123 -- 3 [
+    weight=4
+  ];
+  266 -- 10 [
+    weight=8
+  ];
+  320 -- 164 [
+    weight=2
+  ];
+  329 -- 15 [
+    weight=1
+  ];
+  184 -- 87 [
+    weight=24
+  ];
+  280 -- 83 [
+    weight=6
+  ];
+  247 -- 219 [
+    weight=1
+  ];
+  328 -- 243 [
+    weight=3
+  ];
+  213 -- 75 [
+    weight=1
+  ];
+  328 -- 291 [
+    weight=15
+  ];
+  215 -- 156 [
+    weight=1
+  ];
+  329 -- 214 [
+    weight=1
+  ];
+  246 -- 87 [
+    weight=2
+  ];
+  54 -- 8 [
+    weight=1
+  ];
+  320 -- 150 [
+    weight=1
+  ];
+  273 -- 202 [
+    weight=2
+  ];
+  195 -- 103 [
+    weight=1
+  ];
+  175 -- 45 [
+    weight=1
+  ];
+  33 -- 31 [
+    weight=1
+  ];
+  264 -- 8 [
+    weight=1
+  ];
+  238 -- 41 [
+    weight=1
+  ];
+  244 -- 180 [
+    weight=2
+  ];
+  247 -- 95 [
+    weight=3
+  ];
+  331 -- 216 [
+    weight=1
+  ];
+  301 -- 124 [
+    weight=8
+  ];
+  262 -- 31 [
+    weight=1
+  ];
+  221 -- 165 [
+    weight=1
+  ];
+  172 -- 107 [
+    weight=2
+  ];
+  223 -- 58 [
+    weight=1
+  ];
+  173 -- 34 [
+    weight=2
+  ];
+  219 -- 41 [
+    weight=19
+  ];
+  229 -- 219 [
+    weight=1
+  ];
+  281 -- 87 [
+    weight=1
+  ];
+  254 -- 219 [
+    weight=1
+  ];
+  321 -- 147 [
+    weight=1
+  ];
+  194 -- 79 [
+    weight=1
+  ];
+  117 -- 42 [
+    weight=2
+  ];
+  124 -- 100 [
+    weight=4
+  ];
+  146 -- 46 [
+    weight=1
+  ];
+  180 -- 54 [
+    weight=1
+  ];
+  222 -- 160 [
+    weight=1
+  ];
+  298 -- 275 [
+    weight=1
+  ];
+  267 -- 201 [
+    weight=1
+  ];
+  244 -- 187 [
+    weight=1
+  ];
+  127 -- 34 [
+    weight=1
+  ];
+  297 -- 273 [
+    weight=4
+  ];
+  324 -- 147 [
+    weight=1
+  ];
+  172 -- 83 [
+    weight=2
+  ];
+  291 -- 172 [
+    weight=2
+  ];
+  328 -- 83 [
+    weight=6
+  ];
+  218 -- 69 [
+    weight=1
+  ];
+  222 -- 203 [
+    weight=1
+  ];
+  132 -- 31 [
+    weight=6
+  ];
+  189 -- 132 [
+    weight=1
+  ];
+  213 -- 58 [
+    weight=2
+  ];
+  46 -- 34 [
+    weight=50
+  ];
+  320 -- 55 [
+    weight=1
+  ];
+  95 -- 46 [
+    weight=2
+  ];
+  317 -- 96 [
+    weight=1
+  ];
+  229 -- 41 [
+    weight=1
+  ];
+  41 -- 15 [
+    weight=1
+  ];
+  172 -- 109 [
+    weight=1
+  ];
+  273 -- 157 [
+    weight=4
+  ];
+  86 -- 81 [
+    weight=1
+  ];
+  273 -- 219 [
+    weight=9
+  ];
+  218 -- 122 [
+    weight=1
+  ];
+  301 -- 190 [
+    weight=1
+  ];
+  306 -- 76 [
+    weight=2
+  ];
+  291 -- 247 [
+    weight=6
+  ];
+  264 -- 41 [
+    weight=5
+  ];
+  152 -- 34 [
+    weight=5
+  ];
+  91 -- 31 [
+    weight=1
+  ];
+  240 -- 219 [
+    weight=1
+  ];
+  240 -- 34 [
+    weight=2
+  ];
+  132 -- 91 [
+    weight=1
+  ];
+  83 -- 41 [
+    weight=34
+  ];
+  155 -- 53 [
+    weight=1
+  ];
+  142 -- 18 [
+    weight=3
+  ];
+  273 -- 95 [
+    weight=17
+  ];
+  180 -- 113 [
+    weight=1
+  ];
+  180 -- 41 [
+    weight=43
+  ];
+  80 -- 3 [
+    weight=3
+  ];
+  270 -- 86 [
+    weight=1
+  ];
+  128 -- 75 [
+    weight=1
+  ];
+  187 -- 142 [
+    weight=2
+  ];
+  320 -- 287 [
+    weight=1
+  ];
+  262 -- 174 [
+    weight=1
+  ];
+  223 -- 72 [
+    weight=1
+  ];
+  119 -- 95 [
+    weight=1
+  ];
+  142 -- 8 [
+    weight=9
+  ];
+  230 -- 1 [
+    weight=1
+  ];
+  274 -- 135 [
+    weight=3
+  ];
+  82 -- 32 [
+    weight=1
+  ];
+  41 -- 11 [
+    weight=1
+  ];
+  251 -- 34 [
+    weight=1
+  ];
+  230 -- 216 [
+    weight=1
+  ];
+  142 -- 43 [
+    weight=17
+  ];
+  182 -- 20 [
+    weight=1
+  ];
+  125 -- 61 [
+    weight=1
+  ];
+  192 -- 122 [
+    weight=1
+  ];
+  176 -- 34 [
+    weight=2
+  ];
+  320 -- 38 [
+    weight=2
+  ];
+  312 -- 133 [
+    weight=2
+  ];
+  273 -- 146 [
+    weight=5
+  ];
+  329 -- 157 [
+    weight=1
+  ];
+  103 -- 57 [
+    weight=1
+  ];
+  166 -- 58 [
+    weight=1
+  ];
+  216 -- 62 [
+    weight=2
+  ];
+  317 -- 158 [
+    weight=1
+  ];
+  317 -- 86 [
+    weight=2
+  ];
+  169 -- 115 [
+    weight=1
+  ];
+  329 -- 243 [
+    weight=3
+  ];
+  125 -- 103 [
+    weight=1
+  ];
+  173 -- 107 [
+    weight=1
+  ];
+  145 -- 75 [
+    weight=1
+  ];
+  329 -- 219 [
+    weight=1
+  ];
+  160 -- 122 [
+    weight=1
+  ];
+  244 -- 95 [
+    weight=4
+  ];
+  62 -- 21 [
+    weight=1
+  ];
+  292 -- 187 [
+    weight=1
+  ];
+  297 -- 244 [
+    weight=1
+  ];
+  328 -- 95 [
+    weight=15
+  ];
+  230 -- 63 [
+    weight=1
+  ];
+  262 -- 35 [
+    weight=1
+  ];
+  89 -- 79 [
+    weight=1
+  ];
+  318 -- 74 [
+    weight=1
+  ];
+  210 -- 26 [
+    weight=1
+  ];
+  278 -- 179 [
+    weight=1
+  ];
+  297 -- 173 [
+    weight=1
+  ];
+  265 -- 199 [
+    weight=1
+  ];
+  243 -- 8 [
+    weight=1
+  ];
+  270 -- 213 [
+    weight=1
+  ];
+  265 -- 35 [
+    weight=1
+  ];
+  87 -- 39 [
+    weight=1
+  ];
+  75 -- 63 [
+    weight=2
+  ];
+  187 -- 41 [
+    weight=3
+  ];
+  266 -- 119 [
+    weight=2
+  ];
+  109 -- 41 [
+    weight=6
+  ];
+  270 -- 216 [
+    weight=1
+  ];
+  47 -- 41 [
+    weight=1
+  ];
+  162 -- 36 [
+    weight=1
+  ];
+  310 -- 294 [
+    weight=1
+  ];
+  213 -- 116 [
+    weight=1
+  ];
+  71 -- 31 [
+    weight=1
+  ];
+  273 -- 142 [
+    weight=127
+  ];
+  268 -- 147 [
+    weight=1
+  ];
+  322 -- 32 [
+    weight=1
+  ];
+  273 -- 107 [
+    weight=1
+  ];
+  265 -- 86 [
+    weight=2
+  ];
+  54 -- 15 [
+    weight=1
+  ];
+  280 -- 273 [
+    weight=29
+  ];
+  116 -- 61 [
+    weight=1
+  ];
+  41 -- 37 [
+    weight=1
+  ];
+  313 -- 230 [
+    weight=1
+  ];
+  152 -- 87 [
+    weight=15
+  ];
+  329 -- 295 [
+    weight=1
+  ];
+  329 -- 163 [
+    weight=1
+  ];
+  223 -- 195 [
+    weight=1
+  ];
+  223 -- 94 [
+    weight=1
+  ];
+  284 -- 242 [
+    weight=1
+  ];
+  219 -- 34 [
+    weight=10
+  ];
+  264 -- 180 [
+    weight=3
+  ];
+  273 -- 240 [
+    weight=7
+  ];
+  218 -- 23 [
+    weight=1
+  ];
+  181 -- 31 [
+    weight=1
+  ];
+  255 -- 35 [
+    weight=1
+  ];
+  176 -- 107 [
+    weight=1
+  ];
+  88 -- 3 [
+    weight=3
+  ];
+  252 -- 235 [
+    weight=1
+  ];
+  273 -- 254 [
+    weight=3
+  ];
+  175 -- 86 [
+    weight=1
+  ];
+  114 -- 41 [
+    weight=3
+  ];
+  117 -- 108 [
+    weight=1
+  ];
+  204 -- 12 [
+    weight=1
+  ];
+  319 -- 10 [
+    weight=1
+  ];
+  272 -- 100 [
+    weight=1
+  ];
+  195 -- 86 [
+    weight=2
+  ];
+  133 -- 19 [
+    weight=1
+  ];
+  212 -- 3 [
+    weight=2
+  ];
+  198 -- 50 [
+    weight=1
+  ];
+  323 -- 86 [
+    weight=1
+  ];
+  145 -- 29 [
+    weight=1
+  ];
+  307 -- 41 [
+    weight=1
+  ];
+  240 -- 172 [
+    weight=1
+  ];
+  280 -- 202 [
+    weight=1
+  ];
+  323 -- 125 [
+    weight=1
+  ];
+  223 -- 213 [
+    weight=2
+  ];
+  294 -- 249 [
+    weight=5
+  ];
+  145 -- 61 [
+    weight=5
+  ];
+  291 -- 146 [
+    weight=1
+  ];
+  77 -- 3 [
+    weight=1
+  ];
+  302 -- 149 [
+    weight=1
+  ];
+  132 -- 69 [
+    weight=1
+  ];
+  294 -- 104 [
+    weight=14
+  ];
+  145 -- 31 [
+    weight=1
+  ];
+  291 -- 244 [
+    weight=2
+  ];
+  237 -- 228 [
+    weight=1
+  ];
+  158 -- 86 [
+    weight=2
+  ];
+  331 -- 45 [
+    weight=1
+  ];
+  231 -- 98 [
+    weight=1
+  ];
+  320 -- 305 [
+    weight=1
+  ];
+  240 -- 46 [
+    weight=1
+  ];
+  245 -- 3 [
+    weight=1
+  ];
+  111 -- 60 [
+    weight=1
+  ];
+  280 -- 180 [
+    weight=1
+  ];
+  240 -- 142 [
+    weight=14
+  ];
+  244 -- 127 [
+    weight=1
+  ];
+  230 -- 128 [
+    weight=1
+  ];
+  179 -- 82 [
+    weight=2
+  ];
+  254 -- 157 [
+    weight=2
+  ];
+  53 -- 15 [
+    weight=1
+  ];
+  132 -- 128 [
+    weight=1
+  ];
+  216 -- 86 [
+    weight=1
+  ];
+  280 -- 172 [
+    weight=4
+  ];
+  155 -- 34 [
+    weight=1
+  ];
+  213 -- 166 [
+    weight=2
+  ];
+  195 -- 81 [
+    weight=1
+  ];
+  142 -- 107 [
+    weight=2
+  ];
+  297 -- 53 [
+    weight=1
+  ];
+  331 -- 132 [
+    weight=1
+  ];
+}

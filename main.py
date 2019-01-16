@@ -1,3 +1,5 @@
+import math
+
 import utils
 import project_utils as putils
 import pandas as pd
@@ -72,14 +74,19 @@ def archive_pipeline():
     print("Time : {:.2f} seconds".format(exec_time))
 
 
-def is_common_community(graph, edge, prob=0.7):
-    is_common = graph.vs[edge.source]["community"] == graph.vs[edge.target]["community"]
-    if not is_common:
-        r = random.random()
-        if r > prob:
-            is_common = True
+def f(x, alpha=100):
+    return math.pow(math.e, -x / alpha)
 
-    return is_common
+
+def is_delete_edge(graph, edge):
+    is_delete = graph.vs[edge.source]["community"] != graph.vs[edge.target]["community"]
+    if is_delete:
+        r = random.random()
+        w = edge["weight"]
+        if f(w) < r:
+            is_delete = False
+
+    return is_delete
 
 
 if __name__ == "__main__":
@@ -143,8 +150,8 @@ if __name__ == "__main__":
     # print(c.membership)
     labels = cluster.membership
     g.vs["community"] = labels
-    g.es.select(weight_lt=threshold)["style"] = "invis"
-    g.es.select(lambda e: not is_common_community(g, e, prob=0.9)).delete()
+    # g.es.select(weight_lt=threshold)["style"] = "invis"
+    g.es.select(lambda e: is_delete_edge(g, e)).delete()
     print("\nAfter delete edges")
     print(g.summary())
 

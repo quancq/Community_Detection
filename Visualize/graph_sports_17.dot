@@ -1,0 +1,3571 @@
+/* Created by igraph 0.7.1 */
+graph {
+  0 [
+    name=_finances
+    style=filled
+    fillcolor="#969696"
+    label=_finances
+    community=9
+  ];
+  1 [
+    name=_baseball
+    style=filled
+    fillcolor="#4B4B4B"
+    label=_baseball
+    community=4
+  ];
+  2 [
+    name=_awards
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_awards
+    community=16
+  ];
+  3 [
+    name="_inline-hockey"
+    style=filled
+    fillcolor="#1E1E1E"
+    label="_inline-hockey"
+    community=1
+  ];
+  4 [
+    name=_trampolining
+    style=filled
+    fillcolor="#878787"
+    label=_trampolining
+    community=8
+  ];
+  5 [
+    name=_etiquette
+    style=filled
+    fillcolor="#969696"
+    label=_etiquette
+    community=9
+  ];
+  6 [
+    name="_auto-racing"
+    style=filled
+    fillcolor="#D2D2D2"
+    label="_auto-racing"
+    community=13
+  ];
+  7 [
+    name="_team-dynamics"
+    style=filled
+    fillcolor="#969696"
+    label="_team-dynamics"
+    community=9
+  ];
+  8 [
+    name=_grip
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_grip
+    community=1
+  ];
+  9 [
+    name=_nba
+    style=filled
+    fillcolor="#969696"
+    label=_nba
+    community=9
+  ];
+  10 [
+    name=_racquetball
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_racquetball
+    community=15
+  ];
+  11 [
+    name=_ranking
+    style=filled
+    fillcolor="#787878"
+    label=_ranking
+    community=7
+  ];
+  12 [
+    name=_universiade
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_universiade
+    community=16
+  ];
+  13 [
+    name="_champions-league"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_champions-league"
+    community=3
+  ];
+  14 [
+    name=_suspension
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_suspension
+    community=3
+  ];
+  15 [
+    name="_hawk-eye"
+    style=filled
+    fillcolor="#F0F0F0"
+    label="_hawk-eye"
+    community=15
+  ];
+  16 [
+    name="_grand-slam"
+    style=filled
+    fillcolor="#787878"
+    label="_grand-slam"
+    community=7
+  ];
+  17 [
+    name=_cycleball
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_cycleball
+    community=1
+  ];
+  18 [
+    name=_gymnastics
+    style=filled
+    fillcolor="#878787"
+    label=_gymnastics
+    community=8
+  ];
+  19 [
+    name=_postseason
+    style=filled
+    fillcolor="#969696"
+    label=_postseason
+    community=9
+  ];
+  20 [
+    name="_beach-tennis"
+    style=filled
+    fillcolor="#1E1E1E"
+    label="_beach-tennis"
+    community=1
+  ];
+  21 [
+    name=_darts
+    style=filled
+    fillcolor="#878787"
+    label=_darts
+    community=8
+  ];
+  22 [
+    name="_tour-de-france"
+    style=filled
+    fillcolor="#696969"
+    label="_tour-de-france"
+    community=6
+  ];
+  23 [
+    name="_follow-through"
+    style=filled
+    fillcolor="#878787"
+    label="_follow-through"
+    community=8
+  ];
+  24 [
+    name=_climbing
+    style=filled
+    fillcolor="#0F0F0F"
+    label=_climbing
+    community=0
+  ];
+  25 [
+    name="_indian-premier-league"
+    style=filled
+    fillcolor="#F0F0F0"
+    label="_indian-premier-league"
+    community=15
+  ];
+  26 [
+    name=_dodgeball
+    style=filled
+    fillcolor="#878787"
+    label=_dodgeball
+    community=8
+  ];
+  27 [
+    name="_legal-issues"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_legal-issues"
+    community=3
+  ];
+  28 [
+    name=_relegations
+    style=filled
+    fillcolor="#2D2D2D"
+    label=_relegations
+    community=2
+  ];
+  29 [
+    name=_fencing
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_fencing
+    community=16
+  ];
+  30 [
+    name="_scuba-diving"
+    style=filled
+    fillcolor="#1E1E1E"
+    label="_scuba-diving"
+    community=1
+  ];
+  31 [
+    name=_paintball
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_paintball
+    community=1
+  ];
+  32 [
+    name="_copa-libertadores"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_copa-libertadores"
+    community=3
+  ];
+  33 [
+    name=_statistics
+    style=filled
+    fillcolor="#4B4B4B"
+    label=_statistics
+    community=4
+  ];
+  34 [
+    name="_table-tennis"
+    style=filled
+    fillcolor="#1E1E1E"
+    label="_table-tennis"
+    community=1
+  ];
+  35 [
+    name=_ufc
+    style=filled
+    fillcolor="#C3C3C3"
+    label=_ufc
+    community=12
+  ];
+  36 [
+    name=_trophy
+    style=filled
+    fillcolor="#787878"
+    label=_trophy
+    community=7
+  ];
+  37 [
+    name="_indoor-climbing"
+    style=filled
+    fillcolor="#0F0F0F"
+    label="_indoor-climbing"
+    community=0
+  ];
+  38 [
+    name=_schedule
+    style=filled
+    fillcolor="#787878"
+    label=_schedule
+    community=7
+  ];
+  39 [
+    name=_luge
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_luge
+    community=1
+  ];
+  40 [
+    name=_gender
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_gender
+    community=16
+  ];
+  41 [
+    name=_draft
+    style=filled
+    fillcolor="#5A5A5A"
+    label=_draft
+    community=5
+  ];
+  42 [
+    name="_field-hockey"
+    style=filled
+    fillcolor="#FFFFFF"
+    label="_field-hockey"
+    community=16
+  ];
+  43 [
+    name=_ittf
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_ittf
+    community=1
+  ];
+  44 [
+    name="_ice-hockey"
+    style=filled
+    fillcolor="#A5A5A5"
+    label="_ice-hockey"
+    community=10
+  ];
+  45 [
+    name=_defense
+    style=filled
+    fillcolor="#5A5A5A"
+    label=_defense
+    community=5
+  ];
+  46 [
+    name=_volleyball
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_volleyball
+    community=15
+  ];
+  47 [
+    name=_softball
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_softball
+    community=15
+  ];
+  48 [
+    name=_fans
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_fans
+    community=3
+  ];
+  49 [
+    name="_major-leagues"
+    style=filled
+    fillcolor="#FFFFFF"
+    label="_major-leagues"
+    community=16
+  ];
+  50 [
+    name=_olympics
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_olympics
+    community=16
+  ];
+  51 [
+    name=_collectibles
+    style=filled
+    fillcolor="#4B4B4B"
+    label=_collectibles
+    community=4
+  ];
+  52 [
+    name=_floorball
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_floorball
+    community=1
+  ];
+  53 [
+    name="_sumo-wrestling"
+    style=filled
+    fillcolor="#F0F0F0"
+    label="_sumo-wrestling"
+    community=15
+  ];
+  54 [
+    name=_snowboarding
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_snowboarding
+    community=1
+  ];
+  55 [
+    name=_maintenance
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_maintenance
+    community=1
+  ];
+  56 [
+    name=_marathon
+    style=filled
+    fillcolor="#878787"
+    label=_marathon
+    community=8
+  ];
+  57 [
+    name="_autograph-identification"
+    style=filled
+    fillcolor="#4B4B4B"
+    label="_autograph-identification"
+    community=4
+  ];
+  58 [
+    name=_quarterback
+    style=filled
+    fillcolor="#5A5A5A"
+    label=_quarterback
+    community=5
+  ];
+  59 [
+    name=_injuries
+    style=filled
+    fillcolor="#878787"
+    label=_injuries
+    community=8
+  ];
+  60 [
+    name=_futsal
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_futsal
+    community=3
+  ];
+  61 [
+    name=_biathlon
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_biathlon
+    community=1
+  ];
+  62 [
+    name="_tie-breaker"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_tie-breaker"
+    community=3
+  ];
+  63 [
+    name=_strategy
+    style=filled
+    fillcolor="#5A5A5A"
+    label=_strategy
+    community=5
+  ];
+  64 [
+    name=_iihf
+    style=filled
+    fillcolor="#A5A5A5"
+    label=_iihf
+    community=10
+  ];
+  65 [
+    name=_goalkeeper
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_goalkeeper
+    community=3
+  ];
+  66 [
+    name=_equipment
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_equipment
+    community=1
+  ];
+  67 [
+    name=_archery
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_archery
+    community=1
+  ];
+  68 [
+    name=_cricket
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_cricket
+    community=15
+  ];
+  69 [
+    name="_third-umpire"
+    style=filled
+    fillcolor="#F0F0F0"
+    label="_third-umpire"
+    community=15
+  ];
+  70 [
+    name=_coaching
+    style=filled
+    fillcolor="#969696"
+    label=_coaching
+    community=9
+  ];
+  71 [
+    name=_diving
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_diving
+    community=1
+  ];
+  72 [
+    name=_motorsports
+    style=filled
+    fillcolor="#D2D2D2"
+    label=_motorsports
+    community=13
+  ];
+  73 [
+    name=_skiing
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_skiing
+    community=1
+  ];
+  74 [
+    name=_promotions
+    style=filled
+    fillcolor="#2D2D2D"
+    label=_promotions
+    community=2
+  ];
+  75 [
+    name=_wta
+    style=filled
+    fillcolor="#787878"
+    label=_wta
+    community=7
+  ];
+  76 [
+    name="_figure-skating"
+    style=filled
+    fillcolor="#B4B4B4"
+    label="_figure-skating"
+    community=11
+  ];
+  77 [
+    name=_wicket
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_wicket
+    community=15
+  ];
+  78 [
+    name=_terminology
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_terminology
+    community=15
+  ];
+  79 [
+    name="_duckworth-lewis"
+    style=filled
+    fillcolor="#F0F0F0"
+    label="_duckworth-lewis"
+    community=15
+  ];
+  80 [
+    name="_disabled-list"
+    style=filled
+    fillcolor="#4B4B4B"
+    label="_disabled-list"
+    community=4
+  ];
+  81 [
+    name=_racewalking
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_racewalking
+    community=16
+  ];
+  82 [
+    name=_participation
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_participation
+    community=16
+  ];
+  83 [
+    name=_cards
+    style=filled
+    fillcolor="#4B4B4B"
+    label=_cards
+    community=4
+  ];
+  84 [
+    name="_super-bowl"
+    style=filled
+    fillcolor="#5A5A5A"
+    label="_super-bowl"
+    community=5
+  ];
+  85 [
+    name=_milb
+    style=filled
+    fillcolor="#4B4B4B"
+    label=_milb
+    community=4
+  ];
+  86 [
+    name="_american-football"
+    style=filled
+    fillcolor="#5A5A5A"
+    label="_american-football"
+    community=5
+  ];
+  87 [
+    name=_transaction
+    style=filled
+    fillcolor="#4B4B4B"
+    label=_transaction
+    community=4
+  ];
+  88 [
+    name="_beach-volleyball"
+    style=filled
+    fillcolor="#F0F0F0"
+    label="_beach-volleyball"
+    community=15
+  ];
+  89 [
+    name="_water-sports"
+    style=filled
+    fillcolor="#1E1E1E"
+    label="_water-sports"
+    community=1
+  ];
+  90 [
+    name=_fifa
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_fifa
+    community=3
+  ];
+  91 [
+    name=_acquisition
+    style=filled
+    fillcolor="#969696"
+    label=_acquisition
+    community=9
+  ];
+  92 [
+    name=_football
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_football
+    community=3
+  ];
+  93 [
+    name="_track-and-field"
+    style=filled
+    fillcolor="#FFFFFF"
+    label="_track-and-field"
+    community=16
+  ];
+  94 [
+    name=_fiba
+    style=filled
+    fillcolor="#969696"
+    label=_fiba
+    community=9
+  ];
+  95 [
+    name="_field-goal"
+    style=filled
+    fillcolor="#5A5A5A"
+    label="_field-goal"
+    community=5
+  ];
+  96 [
+    name=_nutrition
+    style=filled
+    fillcolor="#696969"
+    label=_nutrition
+    community=6
+  ];
+  97 [
+    name=_golf
+    style=filled
+    fillcolor="#878787"
+    label=_golf
+    community=8
+  ];
+  98 [
+    name=_mlb
+    style=filled
+    fillcolor="#4B4B4B"
+    label=_mlb
+    community=4
+  ];
+  99 [
+    name="_labor-relations"
+    style=filled
+    fillcolor="#969696"
+    label="_labor-relations"
+    community=9
+  ];
+  100 [
+    name=_nbdl
+    style=filled
+    fillcolor="#969696"
+    label=_nbdl
+    community=9
+  ];
+  101 [
+    name="_hall-of-fame"
+    style=filled
+    fillcolor="#FFFFFF"
+    label="_hall-of-fame"
+    community=16
+  ];
+  102 [
+    name=_skeleton
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_skeleton
+    community=1
+  ];
+  103 [
+    name="_cross-country-skiing"
+    style=filled
+    fillcolor="#1E1E1E"
+    label="_cross-country-skiing"
+    community=1
+  ];
+  104 [
+    name=_surfing
+    style=filled
+    fillcolor="#878787"
+    label=_surfing
+    community=8
+  ];
+  105 [
+    name=_decathlon
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_decathlon
+    community=16
+  ];
+  106 [
+    name="_horse-racing"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_horse-racing"
+    community=3
+  ];
+  107 [
+    name=_championship
+    style=filled
+    fillcolor="#787878"
+    label=_championship
+    community=7
+  ];
+  108 [
+    name=_wakeboarding
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_wakeboarding
+    community=1
+  ];
+  109 [
+    name="_gaelic-football"
+    style=filled
+    fillcolor="#FFFFFF"
+    label="_gaelic-football"
+    community=16
+  ];
+  110 [
+    name="_sports-psychology"
+    style=filled
+    fillcolor="#969696"
+    label="_sports-psychology"
+    community=9
+  ];
+  111 [
+    name=_judo
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_judo
+    community=16
+  ];
+  112 [
+    name=_betting
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_betting
+    community=3
+  ];
+  113 [
+    name=_nfl
+    style=filled
+    fillcolor="#5A5A5A"
+    label=_nfl
+    community=5
+  ];
+  114 [
+    name="_kart-racing"
+    style=filled
+    fillcolor="#878787"
+    label="_kart-racing"
+    community=8
+  ];
+  115 [
+    name="_roller-derby"
+    style=filled
+    fillcolor="#B4B4B4"
+    label="_roller-derby"
+    community=11
+  ];
+  116 [
+    name=_sabermetrics
+    style=filled
+    fillcolor="#4B4B4B"
+    label=_sabermetrics
+    community=4
+  ];
+  117 [
+    name="_ice-skating"
+    style=filled
+    fillcolor="#B4B4B4"
+    label="_ice-skating"
+    community=11
+  ];
+  118 [
+    name=_collegiate
+    style=filled
+    fillcolor="#5A5A5A"
+    label=_collegiate
+    community=5
+  ];
+  119 [
+    name=_mls
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_mls
+    community=3
+  ];
+  120 [
+    name=_nascar
+    style=filled
+    fillcolor="#D2D2D2"
+    label=_nascar
+    community=13
+  ];
+  121 [
+    name="_cricket-world-cup"
+    style=filled
+    fillcolor="#F0F0F0"
+    label="_cricket-world-cup"
+    community=15
+  ];
+  122 [
+    name=_handball
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_handball
+    community=15
+  ];
+  123 [
+    name="_open-water"
+    style=filled
+    fillcolor="#1E1E1E"
+    label="_open-water"
+    community=1
+  ];
+  124 [
+    name="_lpga-tour"
+    style=filled
+    fillcolor="#878787"
+    label="_lpga-tour"
+    community=8
+  ];
+  125 [
+    name=_technology
+    style=filled
+    fillcolor="#878787"
+    label=_technology
+    community=8
+  ];
+  126 [
+    name=_pitching
+    style=filled
+    fillcolor="#4B4B4B"
+    label=_pitching
+    community=4
+  ];
+  127 [
+    name=_language
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_language
+    community=3
+  ];
+  128 [
+    name="_own-goal"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_own-goal"
+    community=3
+  ];
+  129 [
+    name=_rugby
+    style=filled
+    fillcolor="#E1E1E1"
+    label=_rugby
+    community=14
+  ];
+  130 [
+    name="_x-games"
+    style=filled
+    fillcolor="#1E1E1E"
+    label="_x-games"
+    community=1
+  ];
+  131 [
+    name=_padel
+    style=filled
+    fillcolor="#969696"
+    label=_padel
+    community=9
+  ];
+  132 [
+    name=_tournaments
+    style=filled
+    fillcolor="#787878"
+    label=_tournaments
+    community=7
+  ];
+  133 [
+    name=_lacrosse
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_lacrosse
+    community=1
+  ];
+  134 [
+    name=_wimbledon
+    style=filled
+    fillcolor="#787878"
+    label=_wimbledon
+    community=7
+  ];
+  135 [
+    name=_boxing
+    style=filled
+    fillcolor="#878787"
+    label=_boxing
+    community=8
+  ];
+  136 [
+    name=_skateboarding
+    style=filled
+    fillcolor="#878787"
+    label=_skateboarding
+    community=8
+  ];
+  137 [
+    name=_squash
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_squash
+    community=1
+  ];
+  138 [
+    name=_cba
+    style=filled
+    fillcolor="#4B4B4B"
+    label=_cba
+    community=4
+  ];
+  139 [
+    name=_heptathlon
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_heptathlon
+    community=16
+  ];
+  140 [
+    name="_davis-cup"
+    style=filled
+    fillcolor="#787878"
+    label="_davis-cup"
+    community=7
+  ];
+  141 [
+    name="_pga-tour"
+    style=filled
+    fillcolor="#878787"
+    label="_pga-tour"
+    community=8
+  ];
+  142 [
+    name=_atp
+    style=filled
+    fillcolor="#787878"
+    label=_atp
+    community=7
+  ];
+  143 [
+    name=_swimming
+    style=filled
+    fillcolor="#878787"
+    label=_swimming
+    community=8
+  ];
+  144 [
+    name=_kayaking
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_kayaking
+    community=1
+  ];
+  145 [
+    name=_itf
+    style=filled
+    fillcolor="#787878"
+    label=_itf
+    community=7
+  ];
+  146 [
+    name=_officiating
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_officiating
+    community=15
+  ];
+  147 [
+    name="_martial-arts"
+    style=filled
+    fillcolor="#FFFFFF"
+    label="_martial-arts"
+    community=16
+  ];
+  148 [
+    name=_airsoft
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_airsoft
+    community=1
+  ];
+  149 [
+    name=_cycling
+    style=filled
+    fillcolor="#696969"
+    label=_cycling
+    community=6
+  ];
+  150 [
+    name=_freestyle
+    style=filled
+    fillcolor="#878787"
+    label=_freestyle
+    community=8
+  ];
+  151 [
+    name=_helmet
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_helmet
+    community=1
+  ];
+  152 [
+    name="_match-identification"
+    style=filled
+    fillcolor="#787878"
+    label="_match-identification"
+    community=7
+  ];
+  153 [
+    name="_penalty-shot"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_penalty-shot"
+    community=3
+  ];
+  154 [
+    name=_mma
+    style=filled
+    fillcolor="#C3C3C3"
+    label=_mma
+    community=12
+  ];
+  155 [
+    name="_australian-rules-football"
+    style=filled
+    fillcolor="#E1E1E1"
+    label="_australian-rules-football"
+    community=14
+  ];
+  156 [
+    name="_special-teams"
+    style=filled
+    fillcolor="#5A5A5A"
+    label="_special-teams"
+    community=5
+  ];
+  157 [
+    name=_butterfly
+    style=filled
+    fillcolor="#878787"
+    label=_butterfly
+    community=8
+  ];
+  158 [
+    name=_history
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_history
+    community=16
+  ];
+  159 [
+    name=_tennis
+    style=filled
+    fillcolor="#787878"
+    label=_tennis
+    community=7
+  ];
+  160 [
+    name=_technique
+    style=filled
+    fillcolor="#878787"
+    label=_technique
+    community=8
+  ];
+  161 [
+    name=_shooting
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_shooting
+    community=1
+  ];
+  162 [
+    name=_quidditch
+    style=filled
+    fillcolor="#969696"
+    label=_quidditch
+    community=9
+  ];
+  163 [
+    name=_bobsleigh
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_bobsleigh
+    community=1
+  ];
+  164 [
+    name=_cfl
+    style=filled
+    fillcolor="#5A5A5A"
+    label=_cfl
+    community=5
+  ];
+  165 [
+    name="_half-marathon"
+    style=filled
+    fillcolor="#878787"
+    label="_half-marathon"
+    community=8
+  ];
+  166 [
+    name=_basketball
+    style=filled
+    fillcolor="#969696"
+    label=_basketball
+    community=9
+  ];
+  167 [
+    name=_longboarding
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_longboarding
+    community=1
+  ];
+  168 [
+    name=_nhl
+    style=filled
+    fillcolor="#A5A5A5"
+    label=_nhl
+    community=10
+  ];
+  169 [
+    name=_amateur
+    style=filled
+    fillcolor="#969696"
+    label=_amateur
+    community=9
+  ];
+  170 [
+    name=_foosball
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_foosball
+    community=15
+  ];
+  171 [
+    name=_skating
+    style=filled
+    fillcolor="#B4B4B4"
+    label=_skating
+    community=11
+  ];
+  172 [
+    name="_match-fixing"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_match-fixing"
+    community=3
+  ];
+  173 [
+    name=_kabaddi
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_kabaddi
+    community=15
+  ];
+  174 [
+    name="_home-run"
+    style=filled
+    fillcolor="#4B4B4B"
+    label="_home-run"
+    community=4
+  ];
+  175 [
+    name=_tactics
+    style=filled
+    fillcolor="#5A5A5A"
+    label=_tactics
+    community=5
+  ];
+  176 [
+    name="_world-cup"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_world-cup"
+    community=3
+  ];
+  177 [
+    name=_dressage
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_dressage
+    community=15
+  ];
+  178 [
+    name=_performance
+    style=filled
+    fillcolor="#878787"
+    label=_performance
+    community=8
+  ];
+  179 [
+    name="_rugby-union"
+    style=filled
+    fillcolor="#E1E1E1"
+    label="_rugby-union"
+    community=14
+  ];
+  180 [
+    name="_road-running"
+    style=filled
+    fillcolor="#878787"
+    label="_road-running"
+    community=8
+  ];
+  181 [
+    name=_athletics
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_athletics
+    community=16
+  ];
+  182 [
+    name="_pro-wrestling"
+    style=filled
+    fillcolor="#C3C3C3"
+    label="_pro-wrestling"
+    community=12
+  ];
+  183 [
+    name=_fantasy
+    style=filled
+    fillcolor="#5A5A5A"
+    label=_fantasy
+    community=5
+  ];
+  184 [
+    name="_serie-a"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_serie-a"
+    community=3
+  ];
+  185 [
+    name=_records
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_records
+    community=16
+  ];
+  186 [
+    name=_scoring
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_scoring
+    community=15
+  ];
+  187 [
+    name=_training
+    style=filled
+    fillcolor="#878787"
+    label=_training
+    community=8
+  ];
+  188 [
+    name=_uefa
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_uefa
+    community=3
+  ];
+  189 [
+    name=_transfer
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_transfer
+    community=3
+  ];
+  190 [
+    name=_jersey
+    style=filled
+    fillcolor="#969696"
+    label=_jersey
+    community=9
+  ];
+  191 [
+    name="_world-baseball-classic"
+    style=filled
+    fillcolor="#969696"
+    label="_world-baseball-classic"
+    community=9
+  ];
+  192 [
+    name=_spin
+    style=filled
+    fillcolor="#878787"
+    label=_spin
+    community=8
+  ];
+  193 [
+    name="_video-review"
+    style=filled
+    fillcolor="#F0F0F0"
+    label="_video-review"
+    community=15
+  ];
+  194 [
+    name="_la-liga"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_la-liga"
+    community=3
+  ];
+  195 [
+    name=_spectators
+    style=filled
+    fillcolor="#787878"
+    label=_spectators
+    community=7
+  ];
+  196 [
+    name=_venues
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_venues
+    community=3
+  ];
+  197 [
+    name="_ultimate-frisbee"
+    style=filled
+    fillcolor="#5A5A5A"
+    label="_ultimate-frisbee"
+    community=5
+  ];
+  198 [
+    name=_racket
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_racket
+    community=1
+  ];
+  199 [
+    name=_serve
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_serve
+    community=1
+  ];
+  200 [
+    name="_copa-america"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_copa-america"
+    community=3
+  ];
+  201 [
+    name=_paralympics
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_paralympics
+    community=16
+  ];
+  202 [
+    name=_curling
+    style=filled
+    fillcolor="#5A5A5A"
+    label=_curling
+    community=5
+  ];
+  203 [
+    name=_wwe
+    style=filled
+    fillcolor="#C3C3C3"
+    label=_wwe
+    community=12
+  ];
+  204 [
+    name="_english-premier-league"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_english-premier-league"
+    community=3
+  ];
+  205 [
+    name=_bowling
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_bowling
+    community=15
+  ];
+  206 [
+    name=_interruption
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_interruption
+    community=15
+  ];
+  207 [
+    name=_var
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_var
+    community=3
+  ];
+  208 [
+    name="_stanley-cup"
+    style=filled
+    fillcolor="#A5A5A5"
+    label="_stanley-cup"
+    community=10
+  ];
+  209 [
+    name=_windsurfing
+    style=filled
+    fillcolor="#878787"
+    label=_windsurfing
+    community=8
+  ];
+  210 [
+    name="_europa-league"
+    style=filled
+    fillcolor="#3C3C3C"
+    label="_europa-league"
+    community=3
+  ];
+  211 [
+    name=_powerlifting
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_powerlifting
+    community=15
+  ];
+  212 [
+    name="_formula-1"
+    style=filled
+    fillcolor="#D2D2D2"
+    label="_formula-1"
+    community=13
+  ];
+  213 [
+    name="_formula-e"
+    style=filled
+    fillcolor="#F0F0F0"
+    label="_formula-e"
+    community=15
+  ];
+  214 [
+    name=_media
+    style=filled
+    fillcolor="#969696"
+    label=_media
+    community=9
+  ];
+  215 [
+    name="_instant-replay"
+    style=filled
+    fillcolor="#4B4B4B"
+    label="_instant-replay"
+    community=4
+  ];
+  216 [
+    name=_qualifying
+    style=filled
+    fillcolor="#D2D2D2"
+    label=_qualifying
+    community=13
+  ];
+  217 [
+    name="_rugby-league"
+    style=filled
+    fillcolor="#E1E1E1"
+    label="_rugby-league"
+    community=14
+  ];
+  218 [
+    name=_rules
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_rules
+    community=15
+  ];
+  219 [
+    name=_sailing
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_sailing
+    community=15
+  ];
+  220 [
+    name="_road-racing"
+    style=filled
+    fillcolor="#D2D2D2"
+    label="_road-racing"
+    community=13
+  ];
+  221 [
+    name="_competitive-eating"
+    style=filled
+    fillcolor="#878787"
+    label="_competitive-eating"
+    community=8
+  ];
+  222 [
+    name=_icc
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_icc
+    community=15
+  ];
+  223 [
+    name=_formations
+    style=filled
+    fillcolor="#5A5A5A"
+    label=_formations
+    community=5
+  ];
+  224 [
+    name=_triathlon
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_triathlon
+    community=1
+  ];
+  225 [
+    name=_euro
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_euro
+    community=3
+  ];
+  226 [
+    name=_concacaf
+    style=filled
+    fillcolor="#969696"
+    label=_concacaf
+    community=9
+  ];
+  227 [
+    name=_doping
+    style=filled
+    fillcolor="#696969"
+    label=_doping
+    community=6
+  ];
+  228 [
+    name=_badminton
+    style=filled
+    fillcolor="#1E1E1E"
+    label=_badminton
+    community=1
+  ];
+  229 [
+    name=_trivia
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_trivia
+    community=16
+  ];
+  230 [
+    name="_speed-skating"
+    style=filled
+    fillcolor="#F0F0F0"
+    label="_speed-skating"
+    community=15
+  ];
+  231 [
+    name=_bundesliga
+    style=filled
+    fillcolor="#3C3C3C"
+    label=_bundesliga
+    community=3
+  ];
+  232 [
+    name="_international-sports"
+    style=filled
+    fillcolor="#FFFFFF"
+    label="_international-sports"
+    community=16
+  ];
+  233 [
+    name=_weightlifting
+    style=filled
+    fillcolor="#787878"
+    label=_weightlifting
+    community=7
+  ];
+  234 [
+    name=_pool
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_pool
+    community=15
+  ];
+  235 [
+    name=_snooker
+    style=filled
+    fillcolor="#F0F0F0"
+    label=_snooker
+    community=15
+  ];
+  236 [
+    name=_running
+    style=filled
+    fillcolor="#878787"
+    label=_running
+    community=8
+  ];
+  237 [
+    name=_wrestling
+    style=filled
+    fillcolor="#FFFFFF"
+    label=_wrestling
+    community=16
+  ];
+  238 [
+    name="_disc-golf"
+    style=filled
+    fillcolor="#1E1E1E"
+    label="_disc-golf"
+    community=1
+  ];
+  239 [
+    name=_ahl
+    style=filled
+    fillcolor="#A5A5A5"
+    label=_ahl
+    community=10
+  ];
+
+  118 -- 86 [
+    weight=32
+  ];
+  231 -- 194 [
+    weight=6
+  ];
+  228 -- 34 [
+    weight=2
+  ];
+  160 -- 21 [
+    weight=2
+  ];
+  229 -- 158 [
+    weight=91
+  ];
+  178 -- 143 [
+    weight=3
+  ];
+  201 -- 2 [
+    weight=1
+  ];
+  186 -- 78 [
+    weight=7
+  ];
+  210 -- 176 [
+    weight=1
+  ];
+  196 -- 92 [
+    weight=11
+  ];
+  73 -- 66 [
+    weight=14
+  ];
+  162 -- 5 [
+    weight=1
+  ];
+  159 -- 145 [
+    weight=4
+  ];
+  176 -- 48 [
+    weight=1
+  ];
+  141 -- 124 [
+    weight=1
+  ];
+  101 -- 82 [
+    weight=1
+  ];
+  92 -- 65 [
+    weight=7
+  ];
+  176 -- 32 [
+    weight=1
+  ];
+  163 -- 54 [
+    weight=1
+  ];
+  206 -- 25 [
+    weight=2
+  ];
+  210 -- 204 [
+    weight=1
+  ];
+  222 -- 33 [
+    weight=7
+  ];
+  189 -- 92 [
+    weight=24
+  ];
+  188 -- 172 [
+    weight=1
+  ];
+  186 -- 79 [
+    weight=1
+  ];
+  57 -- 51 [
+    weight=8
+  ];
+  193 -- 68 [
+    weight=3
+  ];
+  229 -- 98 [
+    weight=32
+  ];
+  236 -- 59 [
+    weight=1
+  ];
+  156 -- 86 [
+    weight=1
+  ];
+  216 -- 6 [
+    weight=1
+  ];
+  167 -- 55 [
+    weight=2
+  ];
+  92 -- 86 [
+    weight=3
+  ];
+  149 -- 96 [
+    weight=1
+  ];
+  236 -- 143 [
+    weight=1
+  ];
+  33 -- 1 [
+    weight=42
+  ];
+  201 -- 29 [
+    weight=1
+  ];
+  175 -- 45 [
+    weight=2
+  ];
+  131 -- 5 [
+    weight=1
+  ];
+  145 -- 16 [
+    weight=1
+  ];
+  161 -- 61 [
+    weight=2
+  ];
+  183 -- 113 [
+    weight=2
+  ];
+  223 -- 175 [
+    weight=4
+  ];
+  146 -- 77 [
+    weight=10
+  ];
+  169 -- 9 [
+    weight=2
+  ];
+  231 -- 92 [
+    weight=7
+  ];
+  233 -- 107 [
+    weight=1
+  ];
+  78 -- 46 [
+    weight=5
+  ];
+  186 -- 68 [
+    weight=8
+  ];
+  89 -- 71 [
+    weight=1
+  ];
+  193 -- 122 [
+    weight=1
+  ];
+  64 -- 44 [
+    weight=2
+  ];
+  187 -- 165 [
+    weight=1
+  ];
+  216 -- 212 [
+    weight=1
+  ];
+  223 -- 84 [
+    weight=1
+  ];
+  231 -- 204 [
+    weight=2
+  ];
+  224 -- 61 [
+    weight=1
+  ];
+  157 -- 143 [
+    weight=3
+  ];
+  196 -- 60 [
+    weight=1
+  ];
+  112 -- 106 [
+    weight=5
+  ];
+  229 -- 93 [
+    weight=6
+  ];
+  63 -- 45 [
+    weight=3
+  ];
+  232 -- 185 [
+    weight=2
+  ];
+  194 -- 188 [
+    weight=1
+  ];
+  95 -- 92 [
+    weight=1
+  ];
+  166 -- 110 [
+    weight=5
+  ];
+  180 -- 56 [
+    weight=3
+  ];
+  68 -- 25 [
+    weight=24
+  ];
+  69 -- 68 [
+    weight=2
+  ];
+  192 -- 125 [
+    weight=1
+  ];
+  73 -- 54 [
+    weight=7
+  ];
+  218 -- 179 [
+    weight=14
+  ];
+  101 -- 49 [
+    weight=1
+  ];
+  189 -- 90 [
+    weight=5
+  ];
+  197 -- 45 [
+    weight=1
+  ];
+  229 -- 82 [
+    weight=1
+  ];
+  189 -- 98 [
+    weight=1
+  ];
+  192 -- 136 [
+    weight=1
+  ];
+  153 -- 92 [
+    weight=23
+  ];
+  166 -- 158 [
+    weight=11
+  ];
+  38 -- 11 [
+    weight=2
+  ];
+  143 -- 125 [
+    weight=1
+  ];
+  236 -- 178 [
+    weight=2
+  ];
+  148 -- 66 [
+    weight=13
+  ];
+  205 -- 78 [
+    weight=1
+  ];
+  231 -- 33 [
+    weight=1
+  ];
+  158 -- 93 [
+    weight=2
+  ];
+  194 -- 189 [
+    weight=2
+  ];
+  145 -- 132 [
+    weight=3
+  ];
+  163 -- 66 [
+    weight=1
+  ];
+  66 -- 54 [
+    weight=13
+  ];
+  183 -- 86 [
+    weight=1
+  ];
+  214 -- 5 [
+    weight=2
+  ];
+  232 -- 40 [
+    weight=1
+  ];
+  71 -- 30 [
+    weight=1
+  ];
+  162 -- 7 [
+    weight=2
+  ];
+  89 -- 66 [
+    weight=3
+  ];
+  154 -- 35 [
+    weight=1
+  ];
+  184 -- 92 [
+    weight=5
+  ];
+  232 -- 82 [
+    weight=1
+  ];
+  206 -- 186 [
+    weight=2
+  ];
+  92 -- 14 [
+    weight=10
+  ];
+  171 -- 117 [
+    weight=6
+  ];
+  126 -- 116 [
+    weight=1
+  ];
+  79 -- 78 [
+    weight=1
+  ];
+  225 -- 14 [
+    weight=1
+  ];
+  102 -- 39 [
+    weight=1
+  ];
+  126 -- 33 [
+    weight=2
+  ];
+  218 -- 166 [
+    weight=86
+  ];
+  228 -- 66 [
+    weight=11
+  ];
+  204 -- 119 [
+    weight=1
+  ];
+  187 -- 178 [
+    weight=6
+  ];
+  214 -- 9 [
+    weight=3
+  ];
+  124 -- 97 [
+    weight=1
+  ];
+  159 -- 36 [
+    weight=1
+  ];
+  140 -- 107 [
+    weight=1
+  ];
+  229 -- 40 [
+    weight=2
+  ];
+  234 -- 78 [
+    weight=1
+  ];
+  225 -- 158 [
+    weight=1
+  ];
+  99 -- 9 [
+    weight=2
+  ];
+  229 -- 185 [
+    weight=69
+  ];
+  158 -- 49 [
+    weight=5
+  ];
+  160 -- 150 [
+    weight=5
+  ];
+  166 -- 0 [
+    weight=4
+  ];
+  93 -- 81 [
+    weight=1
+  ];
+  9 -- 7 [
+    weight=1
+  ];
+  232 -- 50 [
+    weight=7
+  ];
+  168 -- 0 [
+    weight=2
+  ];
+  161 -- 148 [
+    weight=3
+  ];
+  178 -- 125 [
+    weight=2
+  ];
+  110 -- 70 [
+    weight=1
+  ];
+  239 -- 44 [
+    weight=1
+  ];
+  229 -- 113 [
+    weight=32
+  ];
+  188 -- 92 [
+    weight=42
+  ];
+  218 -- 206 [
+    weight=10
+  ];
+  206 -- 79 [
+    weight=5
+  ];
+  182 -- 154 [
+    weight=2
+  ];
+  183 -- 63 [
+    weight=1
+  ];
+  68 -- 63 [
+    weight=11
+  ];
+  166 -- 70 [
+    weight=5
+  ];
+  205 -- 121 [
+    weight=1
+  ];
+  225 -- 176 [
+    weight=1
+  ];
+  226 -- 0 [
+    weight=1
+  ];
+  186 -- 170 [
+    weight=1
+  ];
+  164 -- 118 [
+    weight=3
+  ];
+  88 -- 78 [
+    weight=1
+  ];
+  199 -- 43 [
+    weight=1
+  ];
+  229 -- 101 [
+    weight=1
+  ];
+  218 -- 205 [
+    weight=4
+  ];
+  218 -- 177 [
+    weight=1
+  ];
+  222 -- 77 [
+    weight=2
+  ];
+  68 -- 47 [
+    weight=1
+  ];
+  194 -- 184 [
+    weight=3
+  ];
+  141 -- 97 [
+    weight=8
+  ];
+  92 -- 32 [
+    weight=2
+  ];
+  202 -- 63 [
+    weight=2
+  ];
+  194 -- 13 [
+    weight=1
+  ];
+  192 -- 160 [
+    weight=9
+  ];
+  139 -- 105 [
+    weight=1
+  ];
+  186 -- 146 [
+    weight=2
+  ];
+  236 -- 56 [
+    weight=19
+  ];
+  218 -- 211 [
+    weight=3
+  ];
+  218 -- 25 [
+    weight=6
+  ];
+  92 -- 48 [
+    weight=6
+  ];
+  218 -- 186 [
+    weight=29
+  ];
+  204 -- 92 [
+    weight=38
+  ];
+  75 -- 16 [
+    weight=4
+  ];
+  111 -- 50 [
+    weight=1
+  ];
+  215 -- 1 [
+    weight=2
+  ];
+  89 -- 30 [
+    weight=2
+  ];
+  218 -- 68 [
+    weight=291
+  ];
+  98 -- 87 [
+    weight=7
+  ];
+  116 -- 98 [
+    weight=3
+  ];
+  166 -- 92 [
+    weight=4
+  ];
+  228 -- 198 [
+    weight=7
+  ];
+  128 -- 92 [
+    weight=9
+  ];
+  190 -- 0 [
+    weight=1
+  ];
+  218 -- 10 [
+    weight=3
+  ];
+  121 -- 25 [
+    weight=1
+  ];
+  218 -- 165 [
+    weight=1
+  ];
+  218 -- 146 [
+    weight=185
+  ];
+  229 -- 181 [
+    weight=3
+  ];
+  98 -- 57 [
+    weight=6
+  ];
+  160 -- 93 [
+    weight=5
+  ];
+  160 -- 59 [
+    weight=5
+  ];
+  222 -- 78 [
+    weight=3
+  ];
+  187 -- 162 [
+    weight=2
+  ];
+  86 -- 63 [
+    weight=12
+  ];
+  200 -- 196 [
+    weight=1
+  ];
+  87 -- 1 [
+    weight=10
+  ];
+  218 -- 170 [
+    weight=1
+  ];
+  62 -- 13 [
+    weight=1
+  ];
+  121 -- 78 [
+    weight=1
+  ];
+  188 -- 13 [
+    weight=12
+  ];
+  187 -- 56 [
+    weight=4
+  ];
+  59 -- 56 [
+    weight=1
+  ];
+  178 -- 114 [
+    weight=1
+  ];
+  110 -- 7 [
+    weight=1
+  ];
+  179 -- 155 [
+    weight=1
+  ];
+  73 -- 61 [
+    weight=1
+  ];
+  214 -- 99 [
+    weight=1
+  ];
+  159 -- 134 [
+    weight=5
+  ];
+  153 -- 62 [
+    weight=1
+  ];
+  218 -- 88 [
+    weight=6
+  ];
+  187 -- 125 [
+    weight=2
+  ];
+  176 -- 14 [
+    weight=1
+  ];
+  113 -- 63 [
+    weight=8
+  ];
+  218 -- 193 [
+    weight=14
+  ];
+  220 -- 212 [
+    weight=2
+  ];
+  55 -- 30 [
+    weight=1
+  ];
+  199 -- 137 [
+    weight=4
+  ];
+  159 -- 132 [
+    weight=27
+  ];
+  168 -- 2 [
+    weight=1
+  ];
+  67 -- 66 [
+    weight=5
+  ];
+  150 -- 143 [
+    weight=7
+  ];
+  75 -- 11 [
+    weight=9
+  ];
+  113 -- 95 [
+    weight=2
+  ];
+  146 -- 92 [
+    weight=109
+  ];
+  86 -- 58 [
+    weight=2
+  ];
+  186 -- 77 [
+    weight=1
+  ];
+  198 -- 8 [
+    weight=2
+  ];
+  229 -- 49 [
+    weight=5
+  ];
+  159 -- 107 [
+    weight=1
+  ];
+  218 -- 78 [
+    weight=24
+  ];
+  171 -- 76 [
+    weight=3
+  ];
+  232 -- 49 [
+    weight=1
+  ];
+  158 -- 42 [
+    weight=3
+  ];
+  210 -- 13 [
+    weight=7
+  ];
+  93 -- 50 [
+    weight=10
+  ];
+  175 -- 113 [
+    weight=2
+  ];
+  194 -- 119 [
+    weight=1
+  ];
+  220 -- 6 [
+    weight=2
+  ];
+  200 -- 92 [
+    weight=3
+  ];
+  104 -- 59 [
+    weight=1
+  ];
+  160 -- 26 [
+    weight=3
+  ];
+  238 -- 66 [
+    weight=3
+  ];
+  91 -- 9 [
+    weight=1
+  ];
+  223 -- 58 [
+    weight=1
+  ];
+  235 -- 234 [
+    weight=5
+  ];
+  190 -- 166 [
+    weight=3
+  ];
+  123 -- 66 [
+    weight=1
+  ];
+  163 -- 151 [
+    weight=1
+  ];
+  19 -- 0 [
+    weight=2
+  ];
+  162 -- 110 [
+    weight=1
+  ];
+  218 -- 87 [
+    weight=2
+  ];
+  186 -- 33 [
+    weight=8
+  ];
+  95 -- 86 [
+    weight=2
+  ];
+  166 -- 100 [
+    weight=1
+  ];
+  236 -- 187 [
+    weight=13
+  ];
+  113 -- 41 [
+    weight=7
+  ];
+  214 -- 166 [
+    weight=3
+  ];
+  19 -- 9 [
+    weight=18
+  ];
+  212 -- 72 [
+    weight=1
+  ];
+  160 -- 66 [
+    weight=8
+  ];
+  92 -- 13 [
+    weight=33
+  ];
+  158 -- 50 [
+    weight=21
+  ];
+  162 -- 70 [
+    weight=2
+  ];
+  210 -- 92 [
+    weight=8
+  ];
+  178 -- 160 [
+    weight=2
+  ];
+  140 -- 11 [
+    weight=2
+  ];
+  185 -- 146 [
+    weight=1
+  ];
+  142 -- 75 [
+    weight=34
+  ];
+  201 -- 50 [
+    weight=1
+  ];
+  232 -- 101 [
+    weight=1
+  ];
+  158 -- 92 [
+    weight=45
+  ];
+  137 -- 34 [
+    weight=3
+  ];
+  88 -- 46 [
+    weight=3
+  ];
+  230 -- 218 [
+    weight=1
+  ];
+  48 -- 1 [
+    weight=3
+  ];
+  113 -- 33 [
+    weight=14
+  ];
+  133 -- 66 [
+    weight=2
+  ];
+  195 -- 134 [
+    weight=2
+  ];
+  150 -- 18 [
+    weight=1
+  ];
+  97 -- 59 [
+    weight=1
+  ];
+  218 -- 47 [
+    weight=6
+  ];
+  112 -- 92 [
+    weight=6
+  ];
+  146 -- 47 [
+    weight=2
+  ];
+  139 -- 93 [
+    weight=1
+  ];
+  166 -- 19 [
+    weight=12
+  ];
+  113 -- 45 [
+    weight=1
+  ];
+  176 -- 153 [
+    weight=1
+  ];
+  198 -- 34 [
+    weight=11
+  ];
+  71 -- 66 [
+    weight=2
+  ];
+  190 -- 9 [
+    weight=2
+  ];
+  229 -- 86 [
+    weight=35
+  ];
+  132 -- 16 [
+    weight=1
+  ];
+  225 -- 90 [
+    weight=1
+  ];
+  209 -- 104 [
+    weight=1
+  ];
+  117 -- 76 [
+    weight=2
+  ];
+  159 -- 142 [
+    weight=57
+  ];
+  94 -- 9 [
+    weight=1
+  ];
+  98 -- 85 [
+    weight=2
+  ];
+  179 -- 129 [
+    weight=5
+  ];
+  210 -- 188 [
+    weight=4
+  ];
+  218 -- 92 [
+    weight=282
+  ];
+  206 -- 68 [
+    weight=17
+  ];
+  232 -- 158 [
+    weight=12
+  ];
+  222 -- 79 [
+    weight=3
+  ];
+  132 -- 38 [
+    weight=3
+  ];
+  159 -- 140 [
+    weight=4
+  ];
+  121 -- 77 [
+    weight=1
+  ];
+  233 -- 211 [
+    weight=1
+  ];
+  229 -- 60 [
+    weight=1
+  ];
+  219 -- 218 [
+    weight=1
+  ];
+  92 -- 27 [
+    weight=1
+  ];
+  140 -- 75 [
+    weight=1
+  ];
+  229 -- 50 [
+    weight=25
+  ];
+  103 -- 66 [
+    weight=1
+  ];
+  161 -- 73 [
+    weight=1
+  ];
+  168 -- 50 [
+    weight=2
+  ];
+  159 -- 11 [
+    weight=30
+  ];
+  66 -- 17 [
+    weight=1
+  ];
+  218 -- 15 [
+    weight=1
+  ];
+  167 -- 66 [
+    weight=2
+  ];
+  236 -- 125 [
+    weight=4
+  ];
+  66 -- 11 [
+    weight=1
+  ];
+  66 -- 52 [
+    weight=1
+  ];
+  232 -- 12 [
+    weight=1
+  ];
+  222 -- 206 [
+    weight=4
+  ];
+  229 -- 42 [
+    weight=2
+  ];
+  145 -- 75 [
+    weight=1
+  ];
+  160 -- 23 [
+    weight=3
+  ];
+  145 -- 142 [
+    weight=3
+  ];
+  188 -- 14 [
+    weight=1
+  ];
+  92 -- 62 [
+    weight=16
+  ];
+  136 -- 104 [
+    weight=1
+  ];
+  147 -- 111 [
+    weight=1
+  ];
+  217 -- 129 [
+    weight=5
+  ];
+  187 -- 135 [
+    weight=5
+  ];
+  159 -- 75 [
+    weight=38
+  ];
+  85 -- 1 [
+    weight=5
+  ];
+  97 -- 23 [
+    weight=2
+  ];
+  218 -- 69 [
+    weight=1
+  ];
+  159 -- 16 [
+    weight=10
+  ];
+  160 -- 157 [
+    weight=3
+  ];
+  237 -- 50 [
+    weight=2
+  ];
+  157 -- 150 [
+    weight=2
+  ];
+  222 -- 121 [
+    weight=2
+  ];
+  204 -- 90 [
+    weight=1
+  ];
+  139 -- 50 [
+    weight=2
+  ];
+  146 -- 69 [
+    weight=1
+  ];
+  186 -- 46 [
+    weight=1
+  ];
+  108 -- 89 [
+    weight=1
+  ];
+  202 -- 175 [
+    weight=4
+  ];
+  160 -- 104 [
+    weight=1
+  ];
+  125 -- 97 [
+    weight=3
+  ];
+  80 -- 1 [
+    weight=2
+  ];
+  208 -- 44 [
+    weight=16
+  ];
+  228 -- 137 [
+    weight=3
+  ];
+  175 -- 86 [
+    weight=3
+  ];
+  223 -- 63 [
+    weight=12
+  ];
+  218 -- 199 [
+    weight=11
+  ];
+  121 -- 92 [
+    weight=2
+  ];
+  134 -- 11 [
+    weight=1
+  ];
+  235 -- 218 [
+    weight=4
+  ];
+  113 -- 58 [
+    weight=1
+  ];
+  229 -- 92 [
+    weight=117
+  ];
+  187 -- 97 [
+    weight=1
+  ];
+  132 -- 11 [
+    weight=7
+  ];
+  215 -- 98 [
+    weight=2
+  ];
+  198 -- 55 [
+    weight=2
+  ];
+  229 -- 2 [
+    weight=15
+  ];
+  66 -- 3 [
+    weight=1
+  ];
+  114 -- 59 [
+    weight=3
+  ];
+  143 -- 59 [
+    weight=2
+  ];
+  92 -- 33 [
+    weight=50
+  ];
+  224 -- 71 [
+    weight=1
+  ];
+  197 -- 63 [
+    weight=1
+  ];
+  90 -- 14 [
+    weight=1
+  ];
+  110 -- 5 [
+    weight=3
+  ];
+  187 -- 136 [
+    weight=3
+  ];
+  188 -- 62 [
+    weight=1
+  ];
+  86 -- 41 [
+    weight=4
+  ];
+  68 -- 15 [
+    weight=2
+  ];
+  158 -- 40 [
+    weight=2
+  ];
+  66 -- 43 [
+    weight=1
+  ];
+  170 -- 78 [
+    weight=1
+  ];
+  224 -- 66 [
+    weight=3
+  ];
+  136 -- 59 [
+    weight=2
+  ];
+  118 -- 63 [
+    weight=1
+  ];
+  178 -- 97 [
+    weight=1
+  ];
+  166 -- 94 [
+    weight=6
+  ];
+  151 -- 66 [
+    weight=2
+  ];
+  138 -- 1 [
+    weight=2
+  ];
+  146 -- 46 [
+    weight=12
+  ];
+  159 -- 33 [
+    weight=14
+  ];
+  78 -- 25 [
+    weight=1
+  ];
+  66 -- 34 [
+    weight=16
+  ];
+  227 -- 22 [
+    weight=2
+  ];
+  172 -- 27 [
+    weight=1
+  ];
+  164 -- 86 [
+    weight=4
+  ];
+  142 -- 140 [
+    weight=2
+  ];
+  196 -- 48 [
+    weight=1
+  ];
+  169 -- 166 [
+    weight=2
+  ];
+  210 -- 62 [
+    weight=1
+  ];
+  103 -- 73 [
+    weight=2
+  ];
+  236 -- 165 [
+    weight=2
+  ];
+  192 -- 187 [
+    weight=1
+  ];
+  98 -- 33 [
+    weight=20
+  ];
+  86 -- 84 [
+    weight=7
+  ];
+  9 -- 0 [
+    weight=12
+  ];
+  192 -- 97 [
+    weight=1
+  ];
+  84 -- 63 [
+    weight=1
+  ];
+  222 -- 146 [
+    weight=13
+  ];
+  118 -- 45 [
+    weight=1
+  ];
+  185 -- 50 [
+    weight=8
+  ];
+  223 -- 45 [
+    weight=4
+  ];
+  212 -- 6 [
+    weight=17
+  ];
+  70 -- 0 [
+    weight=1
+  ];
+  74 -- 28 [
+    weight=5
+  ];
+  225 -- 92 [
+    weight=15
+  ];
+  218 -- 122 [
+    weight=1
+  ];
+  166 -- 7 [
+    weight=4
+  ];
+  227 -- 149 [
+    weight=4
+  ];
+  196 -- 90 [
+    weight=1
+  ];
+  92 -- 90 [
+    weight=46
+  ];
+  218 -- 213 [
+    weight=2
+  ];
+  187 -- 59 [
+    weight=6
+  ];
+  119 -- 62 [
+    weight=1
+  ];
+  220 -- 216 [
+    weight=1
+  ];
+  68 -- 46 [
+    weight=1
+  ];
+  146 -- 15 [
+    weight=2
+  ];
+  116 -- 1 [
+    weight=11
+  ];
+  82 -- 29 [
+    weight=1
+  ];
+  229 -- 218 [
+    weight=20
+  ];
+  160 -- 56 [
+    weight=3
+  ];
+  189 -- 188 [
+    weight=3
+  ];
+  159 -- 152 [
+    weight=2
+  ];
+  166 -- 9 [
+    weight=107
+  ];
+  222 -- 68 [
+    weight=62
+  ];
+  66 -- 39 [
+    weight=1
+  ];
+  142 -- 16 [
+    weight=4
+  ];
+  201 -- 82 [
+    weight=1
+  ];
+  142 -- 11 [
+    weight=15
+  ];
+  147 -- 50 [
+    weight=1
+  ];
+  185 -- 158 [
+    weight=16
+  ];
+  135 -- 59 [
+    weight=2
+  ];
+  187 -- 150 [
+    weight=1
+  ];
+  142 -- 132 [
+    weight=7
+  ];
+  176 -- 13 [
+    weight=1
+  ];
+  119 -- 92 [
+    weight=5
+  ];
+  223 -- 113 [
+    weight=5
+  ];
+  158 -- 1 [
+    weight=24
+  ];
+  112 -- 27 [
+    weight=1
+  ];
+  232 -- 229 [
+    weight=17
+  ];
+  174 -- 98 [
+    weight=5
+  ];
+  111 -- 2 [
+    weight=1
+  ];
+  224 -- 30 [
+    weight=1
+  ];
+  218 -- 46 [
+    weight=39
+  ];
+  98 -- 1 [
+    weight=148
+  ];
+  99 -- 0 [
+    weight=1
+  ];
+  132 -- 107 [
+    weight=1
+  ];
+  130 -- 54 [
+    weight=1
+  ];
+  188 -- 90 [
+    weight=8
+  ];
+  14 -- 9 [
+    weight=1
+  ];
+  221 -- 187 [
+    weight=1
+  ];
+  121 -- 68 [
+    weight=18
+  ];
+  83 -- 1 [
+    weight=1
+  ];
+  217 -- 179 [
+    weight=4
+  ];
+  118 -- 113 [
+    weight=12
+  ];
+  188 -- 127 [
+    weight=1
+  ];
+  203 -- 182 [
+    weight=1
+  ];
+  83 -- 51 [
+    weight=2
+  ];
+  161 -- 66 [
+    weight=4
+  ];
+  160 -- 114 [
+    weight=1
+  ];
+  160 -- 136 [
+    weight=11
+  ];
+  234 -- 218 [
+    weight=30
+  ];
+  138 -- 98 [
+    weight=2
+  ];
+  126 -- 1 [
+    weight=23
+  ];
+  164 -- 113 [
+    weight=5
+  ];
+  204 -- 62 [
+    weight=3
+  ];
+  187 -- 18 [
+    weight=2
+  ];
+  218 -- 86 [
+    weight=108
+  ];
+  239 -- 168 [
+    weight=1
+  ];
+  181 -- 93 [
+    weight=2
+  ];
+  218 -- 33 [
+    weight=14
+  ];
+  225 -- 62 [
+    weight=1
+  ];
+  70 -- 7 [
+    weight=2
+  ];
+  82 -- 50 [
+    weight=3
+  ];
+  160 -- 97 [
+    weight=13
+  ];
+  219 -- 186 [
+    weight=1
+  ];
+  187 -- 143 [
+    weight=13
+  ];
+  146 -- 86 [
+    weight=16
+  ];
+  86 -- 45 [
+    weight=8
+  ];
+  176 -- 92 [
+    weight=100
+  ];
+  231 -- 184 [
+    weight=3
+  ];
+  185 -- 1 [
+    weight=9
+  ];
+  218 -- 173 [
+    weight=3
+  ];
+  194 -- 90 [
+    weight=2
+  ];
+  7 -- 5 [
+    weight=2
+  ];
+  116 -- 33 [
+    weight=14
+  ];
+  155 -- 129 [
+    weight=2
+  ];
+  112 -- 86 [
+    weight=3
+  ];
+  176 -- 128 [
+    weight=1
+  ];
+  87 -- 85 [
+    weight=2
+  ];
+  210 -- 112 [
+    weight=1
+  ];
+  193 -- 46 [
+    weight=1
+  ];
+  195 -- 159 [
+    weight=2
+  ];
+  171 -- 115 [
+    weight=1
+  ];
+  174 -- 1 [
+    weight=5
+  ];
+  105 -- 93 [
+    weight=1
+  ];
+  146 -- 25 [
+    weight=5
+  ];
+  78 -- 1 [
+    weight=14
+  ];
+  81 -- 50 [
+    weight=2
+  ];
+  168 -- 44 [
+    weight=83
+  ];
+  160 -- 125 [
+    weight=1
+  ];
+  176 -- 65 [
+    weight=2
+  ];
+  166 -- 5 [
+    weight=1
+  ];
+  229 -- 111 [
+    weight=1
+  ];
+  181 -- 82 [
+    weight=1
+  ];
+  198 -- 66 [
+    weight=20
+  ];
+  186 -- 47 [
+    weight=1
+  ];
+  196 -- 176 [
+    weight=2
+  ];
+  218 -- 121 [
+    weight=7
+  ];
+  207 -- 92 [
+    weight=1
+  ];
+  57 -- 1 [
+    weight=29
+  ];
+  167 -- 54 [
+    weight=1
+  ];
+  127 -- 90 [
+    weight=1
+  ];
+  158 -- 2 [
+    weight=8
+  ];
+  118 -- 41 [
+    weight=4
+  ];
+  92 -- 38 [
+    weight=4
+  ];
+  55 -- 54 [
+    weight=1
+  ];
+  113 -- 84 [
+    weight=7
+  ];
+  78 -- 68 [
+    weight=56
+  ];
+  127 -- 92 [
+    weight=2
+  ];
+  216 -- 158 [
+    weight=1
+  ];
+  229 -- 146 [
+    weight=11
+  ];
+  218 -- 176 [
+    weight=13
+  ];
+  176 -- 112 [
+    weight=1
+  ];
+  205 -- 186 [
+    weight=2
+  ];
+  172 -- 92 [
+    weight=3
+  ];
+  126 -- 98 [
+    weight=12
+  ];
+  50 -- 40 [
+    weight=5
+  ];
+  66 -- 55 [
+    weight=22
+  ];
+  110 -- 73 [
+    weight=1
+  ];
+  191 -- 19 [
+    weight=1
+  ];
+  222 -- 25 [
+    weight=1
+  ];
+  199 -- 34 [
+    weight=8
+  ];
+  232 -- 93 [
+    weight=2
+  ];
+  190 -- 7 [
+    weight=1
+  ];
+  222 -- 218 [
+    weight=32
+  ];
+  55 -- 3 [
+    weight=1
+  ];
+  78 -- 77 [
+    weight=2
+  ];
+  178 -- 59 [
+    weight=2
+  ];
+  176 -- 90 [
+    weight=17
+  ];
+  70 -- 9 [
+    weight=2
+  ];
+  51 -- 1 [
+    weight=9
+  ];
+  229 -- 147 [
+    weight=1
+  ];
+  199 -- 198 [
+    weight=1
+  ];
+  185 -- 181 [
+    weight=2
+  ];
+  224 -- 89 [
+    weight=1
+  ];
+  185 -- 2 [
+    weight=3
+  ];
+  176 -- 62 [
+    weight=3
+  ];
+  66 -- 61 [
+    weight=1
+  ];
+  105 -- 50 [
+    weight=1
+  ];
+  187 -- 160 [
+    weight=20
+  ];
+  132 -- 75 [
+    weight=6
+  ];
+  212 -- 120 [
+    weight=1
+  ];
+  77 -- 68 [
+    weight=35
+  ];
+  113 -- 86 [
+    weight=166
+  ];
+  159 -- 38 [
+    weight=2
+  ];
+  98 -- 51 [
+    weight=3
+  ];
+  218 -- 11 [
+    weight=8
+  ];
+  161 -- 31 [
+    weight=1
+  ];
+  165 -- 56 [
+    weight=1
+  ];
+  137 -- 66 [
+    weight=4
+  ];
+  55 -- 34 [
+    weight=5
+  ];
+  185 -- 82 [
+    weight=1
+  ];
+  102 -- 66 [
+    weight=2
+  ];
+  158 -- 101 [
+    weight=1
+  ];
+  194 -- 14 [
+    weight=2
+  ];
+  187 -- 4 [
+    weight=1
+  ];
+  66 -- 30 [
+    weight=4
+  ];
+  206 -- 146 [
+    weight=4
+  ];
+  37 -- 24 [
+    weight=9
+  ];
+  221 -- 160 [
+    weight=2
+  ];
+  142 -- 36 [
+    weight=1
+  ];
+  233 -- 132 [
+    weight=1
+  ];
+  163 -- 73 [
+    weight=1
+  ];
+  148 -- 55 [
+    weight=2
+  ];
+  175 -- 63 [
+    weight=9
+  ];
+  232 -- 2 [
+    weight=2
+  ];
+  217 -- 155 [
+    weight=1
+  ];
+  205 -- 68 [
+    weight=6
+  ];
+  218 -- 34 [
+    weight=34
+  ];
+  204 -- 194 [
+    weight=4
+  ];
+  229 -- 201 [
+    weight=1
+  ];
+  185 -- 93 [
+    weight=5
+  ];
+  146 -- 78 [
+    weight=8
+  ];
+  223 -- 86 [
+    weight=16
+  ];
+  193 -- 113 [
+    weight=4
+  ];
+  218 -- 53 [
+    weight=1
+  ];
+  98 -- 80 [
+    weight=2
+  ];
+  120 -- 6 [
+    weight=4
+  ];
+  151 -- 73 [
+    weight=1
+  ];
+  236 -- 160 [
+    weight=11
+  ];
+  146 -- 68 [
+    weight=84
+  ];
+  193 -- 146 [
+    weight=8
+  ];
+  149 -- 22 [
+    weight=14
+  ];
+  144 -- 66 [
+    weight=3
+  ];
+  218 -- 77 [
+    weight=25
+  ];
+  147 -- 2 [
+    weight=1
+  ];
+  208 -- 168 [
+    weight=17
+  ];
+  214 -- 0 [
+    weight=5
+  ];
+  43 -- 34 [
+    weight=9
+  ];
+  86 -- 59 [
+    weight=6
+  ];
+  228 -- 199 [
+    weight=3
+  ];
+  189 -- 13 [
+    weight=1
+  ];
+  92 -- 60 [
+    weight=2
+  ];
+  160 -- 143 [
+    weight=18
+  ];
+  32 -- 13 [
+    weight=1
+  ];
+  225 -- 188 [
+    weight=6
+  ];
+  112 -- 13 [
+    weight=1
+  ];
+  236 -- 180 [
+    weight=4
+  ];
+  218 -- 79 [
+    weight=4
+  ];
+  194 -- 92 [
+    weight=16
+  ];
+  79 -- 68 [
+    weight=13
+  ];
+  204 -- 59 [
+    weight=1
+  ];
+  50 -- 2 [
+    weight=9
+  ];
+  201 -- 158 [
+    weight=1
+  ];
+  204 -- 13 [
+    weight=1
+  ];
+  73 -- 55 [
+    weight=2
+  ];
+  146 -- 79 [
+    weight=1
+  ];
+  198 -- 137 [
+    weight=4
+  ];
+  158 -- 136 [
+    weight=1
+  ];
+  198 -- 20 [
+    weight=1
+  ];
+  190 -- 66 [
+    weight=2
+  ];
+  229 -- 109 [
+    weight=1
+  ];
+  66 -- 31 [
+    weight=1
+  ];
+}
