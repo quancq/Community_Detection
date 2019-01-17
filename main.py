@@ -1,13 +1,14 @@
 import math
-
 import utils
 import project_utils as putils
 import pandas as pd
 import numpy as np
 import os, time
-from igraph import Graph
+import igraph
 from subprocess import check_call
 import random
+from community_detection import Louvain
+from graph import Graph as MyGraph
 
 
 def archive_pipeline():
@@ -34,7 +35,7 @@ def archive_pipeline():
     # print(edge_list[:3])
 
     # Build graph
-    g = Graph()
+    g = igraph.Graph()
     g.add_vertices(n_vertices)
     g.vs["name"] = vertices
     g.vs["label"] = vertices
@@ -123,7 +124,7 @@ if __name__ == "__main__":
     print(edge_list[:3])
 
     # Build graph
-    g = Graph()
+    g = igraph.Graph()
     g.add_vertices(n_vertices)
     g.vs["name"] = vertices
     g.vs["label"] = vertices
@@ -143,13 +144,40 @@ if __name__ == "__main__":
     # print(g.summary())
 
     # Community detection
-    cluster = g.community_multilevel(return_levels=True, weights=weights)[-1]
+    cluster = g.community_multilevel(return_levels=True, weights=weights)[0]
+    labels = cluster.membership
+    num_communities = len(cluster)
+
+    # Louvain
+    # my_graph = MyGraph(n_vertices)
+    # map_vertex_name_id = {name: i for i, name in enumerate(vertices)}
+    # for (src_name, dst_name), weight in zip(edge_list, weights):
+    #     src_id, dst_id = map_vertex_name_id.get(src_name), map_vertex_name_id.get(dst_name)
+    #     my_graph.add_edge(src_id, dst_id, weight=weight)
+    #
+    # model = Louvain(my_graph)
+    # map_vertex_community = model.detect_communities(max_iter=3)
+    # num_communities = len(set(map_vertex_community.values()))
+    # # labels = [map_vertex_community.get(i) for i in range(n_vertices)]
+    # labels = []
+    # curr_community = -1
+    # community_list = []
+    # for i in range(n_vertices):
+    #     if map_vertex_community.get(i) not in community_list:
+    #         curr_community += 1
+    #         community_list.append(map_vertex_community.get(i))
+    #     labels.append(curr_community)
+    #
+
+    # =================
+
     # print(cluster.summary())
     # print([c.summary() for c in cluster])
-    num_communities = len(cluster)
+
     # print(c.membership)
-    labels = cluster.membership
+
     g.vs["community"] = labels
+
     # g.es.select(weight_lt=threshold)["style"] = "invis"
     g.es.select(lambda e: is_delete_edge(g, e)).delete()
     print("\nAfter delete edges")
@@ -168,6 +196,7 @@ if __name__ == "__main__":
     g.write_dot(save_dot_path)
     check_call(['sfdp', "-Goverlap=false", "-Goutputorder=edgesfirst", '-Tpdf', save_dot_path, '-o', save_pdf_path])
 
-    print(cluster.summary())
+    # print(cluster.summary())
+    print("Number communities : ", num_communities)
     exec_time = time.time() - start_time
     print("Time : {:.2f} seconds".format(exec_time))
